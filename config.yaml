@@ -1,0 +1,166 @@
+# ─────────────────────────────────────────────────────────────
+#  Job Pinger config. Edit freely; the bot re-reads it every run.
+# ─────────────────────────────────────────────────────────────
+
+# Regions to keep. Add "us" to also watch New York etc.
+regions: [canada, apac, europe]
+
+# Big names get a louder ping and a ⭐ tag. Boutiques still get through
+# as long as the title looks like IB / M&A / capital markets.
+big_names:
+  - RBC
+  - Royal Bank
+  - TD
+  - CIBC
+  - BMO
+  - Bank of Montreal
+  - Scotiabank
+  - National Bank
+  - Desjardins
+  - Goldman
+  - Morgan Stanley
+  - J.P. Morgan
+  - JPMorgan
+  - Bank of America
+  - BofA
+  - Citi
+  - Barclays
+  - Deutsche
+  - UBS
+  - HSBC
+  - BNP
+  - Societe Generale
+  - Wells Fargo
+  - Jefferies
+  - Nomura
+  - Mizuho
+  - MUFG
+  - SMBC
+  - Macquarie
+  - Evercore
+  - Lazard
+  - Centerview
+  - PJT
+  - Moelis
+  - Perella
+  - Rothschild
+  - Houlihan
+  - Guggenheim
+  - Greenhill
+  - Harris Williams
+  - William Blair
+  - Piper Sandler
+  - Lincoln International
+  - Solomon
+  - Canaccord
+  - Raymond James
+  - Stifel
+  - CICC
+  - CLSA
+  - DBS
+  - Blackstone
+  - KKR
+  - Brookfield
+  - CPP Investments
+  - OMERS
+  - Ontario Teachers
+  - CDPQ
+  - PSP
+  - HOOPP
+  - IMCO
+  - Manulife
+  - Sun Life
+  - Deloitte
+  - PwC
+  - EY
+  - KPMG
+
+# How often each source type runs (minutes). Workday is the fastest
+# signal, so it runs every pass (~5 min on GitHub Actions).
+every_min:
+  workday: 0
+  greenhouse: 0
+  lever: 0
+  oracle_hcm: 0
+  html: 10
+  linkedin: 0        # rotates through queries, a few per pass
+  simplify: 30
+
+# ── Direct company job boards (confirmed URLs as of Oct 2026) ──
+workday:
+  - {name: TD Securities,        host: td.wd3.myworkdayjobs.com,           tenant: td,           site: TD_Bank_Careers}
+  - {name: CIBC (campus),        host: cibc.wd3.myworkdayjobs.com,         tenant: cibc,         site: campus}
+  - {name: CIBC (all),           host: cibc.wd3.myworkdayjobs.com,         tenant: cibc,         site: search}
+  - {name: BMO,                  host: bmo.wd3.myworkdayjobs.com,          tenant: bmo,          site: Campus}
+  - {name: Barclays,             host: barclays.wd3.myworkdayjobs.com,     tenant: barclays,     site: External_Career_Site_Barclays}
+  - {name: Deutsche Bank,        host: db.wd3.myworkdayjobs.com,           tenant: db,           site: DBWebsite}
+  - {name: Wells Fargo,          host: wf.wd1.myworkdayjobs.com,           tenant: wf,           site: WellsFargoJobs}
+  - {name: Mizuho / Greenhill,   host: mizuho.wd1.myworkdayjobs.com,       tenant: mizuho,       site: mizuhoamericas}
+  - {name: PJT Partners,         host: pjtpartners.wd1.myworkdayjobs.com,  tenant: pjtpartners,  site: Students}
+  - {name: Houlihan Lokey,       host: hl.wd1.myworkdayjobs.com,           tenant: hl,           site: Campus}
+  - {name: Harris Williams,      host: pnc.wd5.myworkdayjobs.com,          tenant: pnc,          site: HarrisWilliams}
+  - {name: Guggenheim,           host: guggenheim.wd1.myworkdayjobs.com,   tenant: guggenheim,   site: Guggenheim_Careers_Campus}
+  - {name: Piper Sandler,        host: pipersandler.wd501.myworkdayjobs.com, tenant: pipersandler, site: Piper_Sandler_Careers}
+  - {name: Blackstone,           host: blackstone.wd1.myworkdayjobs.com,   tenant: blackstone,   site: Blackstone_Campus_Careers}
+  - {name: Brookfield,           host: brookfield.wd5.myworkdayjobs.com,   tenant: brookfield,   site: brookfield}
+  - {name: CPP Investments,      host: cppib.wd10.myworkdayjobs.com,       tenant: cppib,        site: cppinvestments}
+  - {name: OMERS,                host: omers.wd3.myworkdayjobs.com,        tenant: omers,        site: OMERS_External}
+  - {name: Ontario Teachers',    host: otppb.wd3.myworkdayjobs.com,        tenant: otppb,        site: OntarioTeachers_Careers}
+  - {name: Manulife,             host: manulife.wd3.myworkdayjobs.com,     tenant: manulife,     site: MFCJH_Jobs}
+  - {name: Sun Life,             host: sunlife.wd3.myworkdayjobs.com,      tenant: sunlife,      site: experienced}
+
+workday_searches: ["summer analyst", "intern", "summer 2027", "2028", "internship programme"]
+
+greenhouse:
+  - {name: Solomon Partners, token: solomonpartnersstudentsgraduates}
+  - {name: Rothesay,         token: rothesaygraduates}
+
+lever: []
+
+oracle_hcm:
+  # J.P. Morgan's career site runs on Oracle Cloud. Marked unverified:
+  # the first run's health report tells you if it works.
+  - {name: J.P. Morgan, host: jpmc.fa.oraclecloud.com, site: CX_1001, keywords: ["summer analyst", "internship"]}
+
+# Server-rendered career pages. The bot pulls every link whose text looks
+# like an internship. link_pattern catches job links buried in page JSON.
+html:
+  - {name: Citi,          url: "https://jobs.citi.com/search-jobs/summer%20analyst"}
+  - {name: Citi (intern), url: "https://jobs.citi.com/search-jobs/internship"}
+  - {name: Scotiabank,    url: "https://jobs.scotiabank.com/search/?q=summer&sortColumn=referencedate&sortDirection=desc"}
+  - {name: Scotiabank 2027, url: "https://jobs.scotiabank.com/search/?q=2027&sortColumn=referencedate&sortDirection=desc"}
+  - {name: National Bank, url: "https://emplois.bnc.ca/en_CA/careers/CIB_Internship"}
+  - {name: Rothschild & Co, url: "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/"}
+  - {name: RBC,           url: "https://jobs.rbc.com/ca/en/search-results?keywords=summer%202027", link_pattern: 'https://jobs\.rbc\.com/ca/en/job/[A-Za-z0-9\-_/]+'}
+  - {name: RBC 2028,      url: "https://jobs.rbc.com/ca/en/search-results?keywords=2028", link_pattern: 'https://jobs\.rbc\.com/ca/en/job/[A-Za-z0-9\-_/]+'}
+  - {name: Macquarie,     url: "https://recruitment.macquarie.com/en_US/careers/SearchJobs/?search=intern"}
+
+# ── The "whole internet" net: LinkedIn public job search ──
+# Catches boutiques and every bank not listed above. Each pass runs a few
+# query/location combos and rotates, so everything is covered roughly
+# every 30-40 minutes without getting rate-limited.
+linkedin:
+  per_pass: 6
+  urgent_queries:            # run twice as often
+    - "investment banking summer analyst 2028"
+    - "2028 summer analyst"
+    - "M&A summer analyst 2028"
+  queries:
+    - "summer analyst 2027"
+    - "investment banking intern 2027"
+    - "M&A intern summer 2027"
+    - "capital markets summer 2027 intern"
+    - "corporate finance intern summer 2027"
+    - "private equity summer intern 2027"
+    - "equity research summer intern 2027"
+  locations:
+    - "Toronto, Ontario, Canada"
+    - "Canada"
+    - "Hong Kong SAR"
+    - "Singapore"
+    - "London, England, United Kingdom"
+    - "United Kingdom"
+
+# ── Aggregator: Simplify's public internship list (updated hourly) ──
+simplify:
+  url: "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"

@@ -1,0 +1,89 @@
+name: job-pinger
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 min (GitHub sometimes runs it a few minutes late)
+  workflow_dispatch:         # "Run workflow" button for manual runs
+    inputs:
+      mode:
+        description: "normal / doctor / test-alert"
+        default: normal
+
+concurrency:
+  group: job-pinger
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # source health + LinkedIn rotation live in the Actions cache (no commit spam)
+      - uses: actions/cache/restore@v4
+        with:
+          path: |
+            state/health.json
+            state/meta.json
+          key: pinger-state-${{ github.run_id }}
+          restore-keys: pinger-state-
+
+      - name: Run pinger
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          if [ "$MODE" = "doctor" ]; then python pinger.py --doctor
+          elif [ "$MODE" = "test-alert" ]; then python pinger.py --test-alert
+          else python pinger.py; fi
+
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: |
+            state/health.json
+            state/meta.json
+          key: pinger-state-${{ github.run_id }}
+
+      # only commits when a new posting was found
+      - name: Save seen postings
+        run: |
+          git config user.name "job-pinger"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/seen.json
+          if [ -f FOUND.md ]; then git add FOUND.md; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "new postings $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash || true
+            git push
+          fi
+
+  # GitHub pauses scheduled workflows after 60 days with no commits.
+  # This makes a tiny commit on the 1st of each month so that never happens.
+  keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    needs: ping
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          if [ "$(date -u +%d%H%M | cut -c1-5)" = "01120" ]; then
+            date -u > state/keepalive.txt
+            git config user.name "job-pinger"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state/keepalive.txt && git commit -m "keepalive" && git push || true
+          fi
