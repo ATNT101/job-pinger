@@ -47,7 +47,7 @@ jobs:
           ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
         run: |
           MODE="${{ github.event.inputs.mode }}"
-          if [ "$MODE" = "doctor" ]; then python pinger.py --doctor
+          if [ "$MODE" = "doctor" ]; then python pinger.py --doctor | tee DOCTOR.md
           elif [ "$MODE" = "test-alert" ]; then python pinger.py --test-alert
           else python pinger.py; fi
 
@@ -66,8 +66,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           [ -f state/seen.json ] && git add state/seen.json
           if [ -f FOUND.md ]; then git add FOUND.md; fi
+          if [ -f DOCTOR.md ]; then git add DOCTOR.md; fi
           if ! git diff --cached --quiet; then
-            git commit -m "new postings $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "pinger update $(date -u +%Y-%m-%dT%H:%MZ)"
             git pull --rebase --autostash || true
             git push
           fi
