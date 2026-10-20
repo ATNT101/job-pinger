@@ -64,7 +64,7 @@ jobs:
         run: |
           git config user.name "job-pinger"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/seen.json
+          [ -f state/seen.json ] && git add state/seen.json
           if [ -f FOUND.md ]; then git add FOUND.md; fi
           if ! git diff --cached --quiet; then
             git commit -m "new postings $(date -u +%Y-%m-%dT%H:%MZ)"
