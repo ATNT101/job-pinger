@@ -39,7 +39,8 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 "
 S = requests.Session()
 S.headers.update({"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
 TIMEOUT = 25
-TORONTO = timezone(timedelta(hours=-4))  # close enough for the daily heartbeat
+from zoneinfo import ZoneInfo
+TORONTO = ZoneInfo("America/Toronto")
 
 # ───────────────────────── classification ─────────────────────────
 
@@ -324,8 +325,9 @@ def ntfy(title, message, priority=3, click=None, tags=None):
 
 
 def email(subject, html_body):
-    user, pw = os.environ.get("GMAIL_ADDRESS"), os.environ.get("GMAIL_APP_PASSWORD")
-    to = os.environ.get("ALERT_EMAIL_TO") or user
+    clean = lambda v: re.sub(r"[\s\u00a0\u200b]+", "", v or "")  # app passwords get pasted with (non-breaking) spaces
+    user, pw = clean(os.environ.get("GMAIL_ADDRESS")), clean(os.environ.get("GMAIL_APP_PASSWORD"))
+    to = clean(os.environ.get("ALERT_EMAIL_TO")) or user
     if not user or not pw:
         return
     msg = MIMEText(html_body, "html", "utf-8")
@@ -430,7 +432,7 @@ def run(doctor=False, dry=False):
     bootstrap = "_bootstrapped" not in seen and not doctor and not dry
     now = time.time()
     every = cfg.get("every_min", {})
-    found, report = [], []
+    found, report, rejected = [], [], []
 
     for kind, src in all_sources(cfg):
         key = f"{kind}:{src['name']}"
@@ -447,6 +449,8 @@ def run(doctor=False, dry=False):
                     j.update(track=track, priority=prio, big=is_big(j["company"] + " " + j["source"], cfg))
                     found.append(j)
                     kept += 1
+                elif doctor and why not in ("not finance internship",) and INTERN.search(j["title"]):
+                    rejected.append((why, j))
             if h["fails"] >= 6 and h.get("alerted") and not dry:
                 ntfy(f"✅ {src['name']} is back", "Source recovered.", priority=2)
             h.update(fails=0, last_ok=datetime.now(timezone.utc).isoformat(timespec="minutes"), alerted=False,
@@ -488,6 +492,15 @@ def run(doctor=False, dry=False):
         print(f"\n{len(uniq)} matching postings total, {len(out)} would be NEW:\n")
         for j in sorted(out, key=sort_key):
             print(f"  [{j['track']:7}] {'*' if j['big'] else ' '} {j['company'][:28]:28} | {j['title'][:80]} | {j['location'][:40]}")
+        if doctor and rejected:
+            print(f"\nRejected internship-looking titles (sample, for checking the filters):")
+            shown = set()
+            for why, j in rejected:
+                k = (j["company"], j["title"])
+                if k in shown or len(shown) >= 150:
+                    continue
+                shown.add(k)
+                print(f"  ({why:14}) {j['company'][:28]:28} | {j['title'][:80]} | {j['location'][:40]}")
         return
 
     today = datetime.now(timezone.utc).date().isoformat()
