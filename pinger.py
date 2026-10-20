@@ -65,6 +65,9 @@ EXCLUDE = re.compile(r"software|engineer|developer|data scien|machine learning|\
                      r"winter|fall 20|autumn|spring 20", re.I)
 HARD_EXCLUDE = re.compile(r"software|engineer|developer|data scien|machine learning|quality assurance|"
                           r"\bQA\b|cyber|devops|technician", re.I)
+# off-cycle / term-time / insight events: dropped unless the title also says summer
+NOT_SUMMER = re.compile(r"off[- ]?cycle|winter|fall 20|fall term|autumn|spring 20|spring week|spring insight|"
+                        r"insight|discovery (day|program)|open day|january 20|september 20|8[- ]month|12[- ]month", re.I)
 SENIOR = re.compile(r"\b(vice president|director|managing|\bVP\b|senior|lead|head of|full[- ]?time)\b", re.I)
 
 REGIONS = {
@@ -73,7 +76,14 @@ REGIONS = {
             r"taipei|manila|kuala lumpur|jakarta|bangkok|apac|asia|china|japan|australia|\bHK\b|\bSG\b",
     "europe": r"london|united kingdom|\bUK\b|england|scotland|edinburgh|leeds|manchester|birmingham|"
               r"dublin|ireland|paris|france|frankfurt|germany|madrid|spain|milan|italy|amsterdam|"
-              r"netherlands|zurich|geneva|switzerland|stockholm|brussels|luxembourg|warsaw|emea|europe",
+              r"netherlands|zurich|geneva|switzerland|stockholm|brussels|luxembourg|warsaw|emea|europe|"
+              r"glasgow|knutsford|canary wharf|belfast|cardiff|bristol|northampton|poland|krak[oó]w|prague|"
+              r"lisbon|portugal|vienna|austria|copenhagen|denmark|oslo|norway|helsinki|athens|budapest|bucharest",
+    # regions you never want; listed so "unknown" places from these get rejected
+    "other": r"mexico|brazil|s[aã]o paulo|buenos aires|argentina|chile|santiago|colombia|bogot[aá]|\bperu\b|"
+             r"tel aviv|israel|dubai|abu dhabi|\bUAE\b|saudi|riyadh|qatar|doha|bahrain|kuwait|"
+             r"johannesburg|south africa|cape town|lagos|nigeria|nairobi|kenya|cairo|egypt|casablanca|morocco|"
+             r"latam|latin america|middle east|\bMENA\b|pune|chennai|bengaluru|bangalore|hyderabad|gurugram|gurgaon|noida|kolkata",
     "us": r"new york|nyc|\bNY\b|chicago|san francisco|boston|charlotte|houston|dallas|los angeles|"
           r"atlanta|miami|minneapolis|\bUSA?\b|united states|washington|"
           r",\s*(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)\b",
@@ -115,7 +125,10 @@ def classify(job, cfg):
         return False, None, 0, "excluded keyword"
     if EXCLUDE.search(title) and not re.search(r"investment bank|\bM\s?&\s?A\b|capital markets|global markets", title, re.I):
         return False, None, 0, "excluded keyword"
-    if not region_ok(job.get("location", ""), cfg["regions"]):
+    # keep 2028 IB insight/early-ID events (they feed the internship); drop other non-summer stuff
+    if NOT_SUMMER.search(title) and not re.search(r"summer", title, re.I) and not (yr == 2028 and is_ib):
+        return False, None, 0, "not summer"
+    if not region_ok(f"{job.get('location', '')} | {title}", cfg["regions"]):
         return False, None, 0, "region"
     big = is_big(job.get("company", "") + " " + job.get("source", ""), cfg)
     if yr == 2028 and is_ib:
@@ -131,7 +144,7 @@ def classify(job, cfg):
 
 
 def region_ok(loc, regions):
-    if not loc or not loc.strip():
+    if not loc or not loc.strip(" |"):
         return True
     for r in regions:
         if re.search(REGIONS[r], loc, re.I):
