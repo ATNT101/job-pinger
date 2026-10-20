@@ -2,7 +2,7 @@ name: job-pinger
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 min (GitHub sometimes runs it a few minutes late)
+    - cron: "3-58/5 * * * *"   # every 5 min, offset from :00 when GitHub is busiest (runs can still be late)
   workflow_dispatch:         # "Run workflow" button for manual runs
     inputs:
       mode:
