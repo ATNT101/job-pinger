@@ -107,6 +107,8 @@ workday:
   - {name: OMERS,                host: omers.wd3.myworkdayjobs.com,        tenant: omers,        site: OMERS_External}
   - {name: Ontario Teachers',    host: otppb.wd3.myworkdayjobs.com,        tenant: otppb,        site: OntarioTeachers_Careers}
   - {name: Manulife,             host: manulife.wd3.myworkdayjobs.com,     tenant: manulife,     site: MFCJH_Jobs}
+  - {name: RBC (early talent),   host: rbc.wd3.myworkdayjobs.com,          tenant: rbc,          site: RBCEARLYTALENT1}
+  - {name: RBC (global),         host: rbc.wd3.myworkdayjobs.com,          tenant: rbc,          site: RBCGLOBAL1}
   - {name: Sun Life,             host: sunlife.wd3.myworkdayjobs.com,      tenant: sunlife,      site: experienced}
 
 workday_searches: ["summer analyst", "intern", "summer 2027", "2028", "internship programme"]
@@ -130,9 +132,7 @@ html:
   - {name: Scotiabank,    url: "https://jobs.scotiabank.com/search/?q=summer&sortColumn=referencedate&sortDirection=desc"}
   - {name: Scotiabank 2027, url: "https://jobs.scotiabank.com/search/?q=2027&sortColumn=referencedate&sortDirection=desc"}
   - {name: National Bank, url: "https://emplois.bnc.ca/en_CA/careers/CIB_Internship"}
-  - {name: Rothschild & Co, url: "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/"}
-  - {name: RBC,           url: "https://jobs.rbc.com/ca/en/search-results?keywords=summer%202027", link_pattern: 'https://jobs\.rbc\.com/ca/en/job/[A-Za-z0-9\-_/]+'}
-  - {name: RBC 2028,      url: "https://jobs.rbc.com/ca/en/search-results?keywords=2028", link_pattern: 'https://jobs\.rbc\.com/ca/en/job/[A-Za-z0-9\-_/]+'}
+  - {name: Rothschild & Co, url: "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/", link_pattern: '(?:https://www\.rothschildandco\.com)?/en/careers/students-and-graduates/opportunities/[a-z0-9\-]+/'}
   - {name: Macquarie,     url: "https://recruitment.macquarie.com/en_US/careers/SearchJobs/?search=intern"}
 
 # ── The "whole internet" net: LinkedIn public job search ──
@@ -140,7 +140,7 @@ html:
 # query/location combos and rotates, so everything is covered roughly
 # every 30-40 minutes without getting rate-limited.
 linkedin:
-  per_pass: 6
+  per_pass: 4
   urgent_queries:            # run twice as often
     - "investment banking summer analyst 2028"
     - "2028 summer analyst"

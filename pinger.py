@@ -67,8 +67,10 @@ HARD_EXCLUDE = re.compile(r"software|engineer|developer|data scien|machine learn
                           r"\bQA\b|cyber|devops|technician", re.I)
 # off-cycle / term-time / insight events: dropped unless the title also says summer
 NOT_SUMMER = re.compile(r"off[- ]?cycle|winter|fall 20|fall term|autumn|spring 20|spring week|spring insight|"
-                        r"insight|discovery (day|program)|open day|january 20|september 20|8[- ]month|12[- ]month", re.I)
-SENIOR = re.compile(r"\b(vice president|director|managing|\bVP\b|senior|lead|head of|full[- ]?time)\b", re.I)
+                        r"insight|discovery (day|program)|open day|january 20|september 20|long[- ]term|year[- ]long|"
+                        r"\b([4-9]|1[0-2])(\.5)?\s?[-–]?\s?months?\b|\b[4-6]\s?[-–]\s?6\s?months?\b|jan(uary)?\s?[-–]\s?jun|jul(y)?\s?[-–]\s?dec", re.I)
+SENIOR = re.compile(r"\b(vice president|director|managing|\bVP\b|senior|lead|head of|full[- ]?time|associate|"
+                    r"actuarial|women in|women's|for women)\b", re.I)
 
 REGIONS = {
     "canada": r"canada|toronto|montr[eé]al|vancouver|calgary|ottawa|waterloo|halifax|\bON\b|\bQC\b|\bBC\b|\bAB\b|ontario|quebec",
@@ -243,7 +245,8 @@ def fetch_html(src, cfg):
             out[url] = job(src["name"], text, url)
     if src.get("link_pattern"):
         for url in set(re.findall(src["link_pattern"], r.text)):
-            if url not in out:
+            url = urljoin(src["url"], url)
+            if url not in out and url.rstrip("/") != src["url"].rstrip("/"):
                 slug = url.rstrip("/").split("/")[-1]
                 title = re.sub(r"[-_]+", " ", slug)
                 out[url] = job(src["name"], title, url)
@@ -292,9 +295,14 @@ def fetch_linkedin(src, cfg, meta):
     picks = [combos[(cur + i) % len(combos)] for i in range(li.get("per_pass", 6))]
     meta["linkedin_cursor"] = (cur + len(picks)) % len(combos)
     out = []
-    for q, loc in picks:
-        out += fetch_linkedin_one(q, loc)
-        time.sleep(2)
+    for n, (q, loc) in enumerate(picks):
+        try:
+            out += fetch_linkedin_one(q, loc)
+        except RuntimeError:
+            if n == 0:
+                raise
+            break  # rate-limited mid-pass: keep what we have, retry the rest next pass
+        time.sleep(3)
     return out
 
 
