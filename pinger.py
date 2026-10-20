@@ -67,7 +67,8 @@ HARD_EXCLUDE = re.compile(r"software|engineer|developer|data scien|machine learn
                           r"\bQA\b|cyber|devops|technician", re.I)
 # off-cycle / term-time / insight events: dropped unless the title also says summer
 NOT_SUMMER = re.compile(r"off[- ]?cycle|winter|fall 20|fall term|autumn|spring 20|spring week|spring insight|"
-                        r"insight|discovery (day|program)|open day|january 20|september 20|long[- ]term|year[- ]long|"
+                        r"insight|discovery (day|program)|open day|january 20|september|long[- ]term|year[- ]long|offcycle|graduates?\b|"
+                        r"janvier|f[eé]vrier|mars 20|septembre|alternance|jan(uary)?\s?(20\d\d)?\s?[-–]|"
                         r"\b([4-9]|1[0-2])(\.5)?\s?[-–]?\s?months?\b|\b[4-6]\s?[-–]\s?6\s?months?\b|jan(uary)?\s?[-–]\s?jun|jul(y)?\s?[-–]\s?dec", re.I)
 SENIOR = re.compile(r"\b(vice president|director|managing|\bVP\b|senior|lead|head of|full[- ]?time|associate|"
                     r"actuarial|women in|women's|for women)\b", re.I)
@@ -128,6 +129,8 @@ def classify(job, cfg):
     if EXCLUDE.search(title) and not re.search(r"investment bank|\bM\s?&\s?A\b|capital markets|global markets", title, re.I):
         return False, None, 0, "excluded keyword"
     # keep 2028 IB insight/early-ID events (they feed the internship); drop other non-summer stuff
+    if re.search(r"off[- ]?cycle", title, re.I) and not (yr == 2028 and is_ib):
+        return False, None, 0, "not summer"
     if NOT_SUMMER.search(title) and not re.search(r"summer", title, re.I) and not (yr == 2028 and is_ib):
         return False, None, 0, "not summer"
     if not region_ok(f"{job.get('location', '')} | {title}", cfg["regions"]):
