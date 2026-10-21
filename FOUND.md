@@ -2,6 +2,12 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-21 00:13 | 2027 | Citi | [Banking - Investment Banking, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-investment-banking-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4480479874) | Hong Kong, Hong Kong SAR |
+| 2026-10-21 00:13 | 2027 | Citi | [Banking - Capital Markets, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-capital-markets-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4480494265) | Hong Kong, Hong Kong SAR |
+| 2026-10-21 00:13 | 2027 | Citi | [Banking - Commercial Banking, Summer Analyst, Singapore – APAC, 2027](https://sg.linkedin.com/jobs/view/banking-commercial-banking-summer-analyst-singapore-%E2%80%93-apac-2027-at-citi-4480498225) | Singapore, Singapore |
+| 2026-10-21 00:13 | 2027 | Citi | [Services - Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/services-summer-analyst-singapore-2027-at-citi-4480485660) | Singapore, Singapore |
+| 2026-10-21 00:13 | 2027 | StepStone Group | [2027 Private Equity Summer Analyst](https://uk.linkedin.com/jobs/view/2027-private-equity-summer-analyst-at-stepstone-group-4478812495) | London, England, United Kingdom |
+| 2026-10-21 00:13 | 2027 | JPMorganChase | [2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship - London](https://uk.linkedin.com/jobs/view/2027-global-corporate-banking-analyst-program-public-sector-summer-internship-london-at-jpmorganchase-4461752802) | Greater London, England, United Kingdom |
 | 2026-10-20 21:52 | 2027 | BNP Paribas | [Corporate Credit Analyst – Summer 2027 Intern](https://ca.linkedin.com/jobs/view/corporate-credit-analyst-%E2%80%93-summer-2027-intern-at-bnp-paribas-4478918767) | Montreal, Quebec, Canada |
 | 2026-10-20 21:52 | 2027 | Citi | [Banking, Investment Banking, CEE, Greece & Cyprus, Summer Analyst, London, United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-investment-banking-cee-greece-cyprus-summer-analyst-london-united-kingdom-2027-at-citi-4480492307) | London, England, United Kingdom |
 | 2026-10-20 21:52 | 2027 | Citi | [Banking, Investment Banking - Financial Institution Group (FIG), Summer Analyst, London, United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-investment-banking-financial-institution-group-fig-summer-analyst-london-united-kingdom-2027-at-citi-4480477921) | London, England, United Kingdom |
