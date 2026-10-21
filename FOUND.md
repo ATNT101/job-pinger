@@ -2,6 +2,9 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-21 22:06 | 2027 | Bank of America | [Global Research 2027 Summer Analyst - London](https://uk.linkedin.com/jobs/view/global-research-2027-summer-analyst-london-at-bank-of-america-4460276776) | London, England, United Kingdom |
+| 2026-10-21 22:06 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Oxford](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-oxford-at-grant-thornton-uk-4471397365) | Oxford, England, United Kingdom |
+| 2026-10-21 22:06 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Reading](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-reading-at-grant-thornton-uk-4471396439) | Reading, England, United Kingdom |
 | 2026-10-21 14:43 | 2027 | Citi | [Functions - Internal Audit, Summer Analyst - London, 2027](https://jobs.citi.com/job/london/functions-internal-audit-summer-analyst-london-2027/287/102236316864) |  |
 | 2026-10-21 14:43 | 2027 | targetjobs UK | [Capital & Debt Advisory Summer Internship - July 2027](https://uk.linkedin.com/jobs/view/capital-debt-advisory-summer-internship-july-2027-at-targetjobs-uk-4480746405) | London, England, United Kingdom |
 | 2026-10-21 09:43 | 2027 | TD Securities | [TD Internship – Global Transaction Banking (January to June 2027)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Singapore-Singapore/TD-Internship---Global-Transaction-Banking--January-to-June-2027-_R_1517958) | Singapore, Singapore |
