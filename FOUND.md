@@ -2,6 +2,10 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-21 09:43 | 2027 | TD Securities | [TD Internship – Global Transaction Banking (January to June 2027)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Singapore-Singapore/TD-Internship---Global-Transaction-Banking--January-to-June-2027-_R_1517958) | Singapore, Singapore |
+| 2026-10-21 09:43 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Cardiff](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-cardiff-at-grant-thornton-uk-4471507085) | Cardiff, Wales, United Kingdom |
+| 2026-10-21 09:43 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Liverpool](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-liverpool-at-grant-thornton-uk-4471509036) | Liverpool, England, United Kingdom |
+| 2026-10-21 09:43 | 2027 | Hilton | [2027 Feasibility & Investment Analysis Placement](https://uk.linkedin.com/jobs/view/2027-feasibility-investment-analysis-placement-at-hilton-4461712500) | Watford, England, United Kingdom |
 | 2026-10-21 04:45 | 2027 | Investment Management Corporation of Ontario (IMCO) | [Intern, Real Estate (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-real-estate-summer-2027-at-investment-management-corporation-of-ontario-imco-4479949829) | Toronto, Ontario, Canada |
 | 2026-10-21 00:13 | 2027 | Citi | [Banking - Investment Banking, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-investment-banking-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4480479874) | Hong Kong, Hong Kong SAR |
 | 2026-10-21 00:13 | 2027 | Citi | [Banking - Capital Markets, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-capital-markets-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4480494265) | Hong Kong, Hong Kong SAR |
