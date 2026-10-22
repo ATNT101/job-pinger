@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-22 00:39 | 2027 | Castleton Commodities International | [Principal Investments Intern (Summer 2027)](https://uk.linkedin.com/jobs/view/principal-investments-intern-summer-2027-at-castleton-commodities-international-4479432780) | London, England, United Kingdom |
+| 2026-10-22 00:39 | 2027 | Keppel (Fund Management & Investment) | [[Keppel Internship Programme 2027] Intern, RE Investment (June - Dec 2027)](https://sg.linkedin.com/jobs/view/keppel-internship-programme-2027-intern-re-investment-june-dec-2027-at-keppel-fund-management-investment-4442846073) | Singapore, Singapore |
 | 2026-10-21 22:06 | 2027 | Bank of America | [Global Research 2027 Summer Analyst - London](https://uk.linkedin.com/jobs/view/global-research-2027-summer-analyst-london-at-bank-of-america-4460276776) | London, England, United Kingdom |
 | 2026-10-21 22:06 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Oxford](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-oxford-at-grant-thornton-uk-4471397365) | Oxford, England, United Kingdom |
 | 2026-10-21 22:06 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Reading](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-reading-at-grant-thornton-uk-4471396439) | Reading, England, United Kingdom |
