@@ -2,6 +2,10 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-22 22:30 | 2027 | EY | [Financial Restructuring Industrial Placement - Northern Ireland - July 2027 intake](https://uk.linkedin.com/jobs/view/financial-restructuring-industrial-placement-northern-ireland-july-2027-intake-at-ey-4474305507) | Belfast, Northern Ireland, United Kingdom |
+| 2026-10-22 22:30 | 2027 | Investment Management Corporation of Ontario (IMCO) | [Intern, Cash and Treasury (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-cash-and-treasury-summer-2027-at-investment-management-corporation-of-ontario-imco-4479962397) | Toronto, Ontario, Canada |
+| 2026-10-22 22:30 | 2027 | UBS | [2027 Summer Internship - Global Banking GLU - London](https://uk.linkedin.com/jobs/view/2027-summer-internship-global-banking-glu-london-at-ubs-4482497823) | London, England, United Kingdom |
+| 2026-10-22 22:30 | 2027 | University Pension Plan Ontario | [Intern Analyst, Active Public Markets (May 2027 - August 2027)](https://ca.linkedin.com/jobs/view/intern-analyst-active-public-markets-may-2027-august-2027-at-university-pension-plan-ontario-4480272324) | Toronto, Ontario, Canada |
 | 2026-10-22 19:21 | 2027 | StepStone Group | [2027 Private Equity Infrastructure & Real Assets Co-op Analyst](https://ca.linkedin.com/jobs/view/2027-private-equity-infrastructure-real-assets-co-op-analyst-at-stepstone-group-4472316838) | Toronto, Ontario, Canada |
 | 2026-10-22 15:26 | 2027 | Citi | [Banking, Corporate Banking, Summer Analyst, Dublin - Ireland, 2027](https://jobs.citi.com/job/dublin/banking-corporate-banking-summer-analyst-dublin-ireland-2027/287/102286978304) |  |
 | 2026-10-22 15:26 | 2027 | Crédit Agricole CIB | [2027 Summer Internship - Global Investment Banking - London](https://uk.linkedin.com/jobs/view/2027-summer-internship-global-investment-banking-london-at-cr%C3%A9dit-agricole-cib-4480045196) | London Area, United Kingdom |
