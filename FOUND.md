@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-22 15:26 | 2027 | Citi | [Banking, Corporate Banking, Summer Analyst, Dublin - Ireland, 2027](https://jobs.citi.com/job/dublin/banking-corporate-banking-summer-analyst-dublin-ireland-2027/287/102286978304) |  |
+| 2026-10-22 15:26 | 2027 | Crédit Agricole CIB | [2027 Summer Internship - Global Investment Banking - London](https://uk.linkedin.com/jobs/view/2027-summer-internship-global-investment-banking-london-at-cr%C3%A9dit-agricole-cib-4480045196) | London Area, United Kingdom |
 | 2026-10-22 10:21 | 2027 | Barclays | [Private Bank and Wealth Management Summer Internship Programme 2027 Jersey](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Jersey-5-6-Esplanade/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Jersey_JR-0000125565) | Jersey, 5-6 Esplanade |
 | 2026-10-22 10:21 | 2027 | EY | [Financial Restructuring Summer Internship – July 2027 intake](https://uk.linkedin.com/jobs/view/financial-restructuring-summer-internship-%E2%80%93-july-2027-intake-at-ey-4479835551) | London, England, United Kingdom |
 | 2026-10-22 10:21 | 2027 | Scotiabank | [2027 UK Corporate Banking Summer Internship](https://jobs.scotiabank.com/job/London-%28UK%29-2027-UK-Corporate-Banking-Summer-Internship-ENG/607258917/) |  |
