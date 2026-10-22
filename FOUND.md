@@ -2,6 +2,9 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-22 10:21 | 2027 | Barclays | [Private Bank and Wealth Management Summer Internship Programme 2027 Jersey](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Jersey-5-6-Esplanade/Private-Bank-and-Wealth-Management-Summer-Internship-Programme-2027-Jersey_JR-0000125565) | Jersey, 5-6 Esplanade |
+| 2026-10-22 10:21 | 2027 | EY | [Financial Restructuring Summer Internship – July 2027 intake](https://uk.linkedin.com/jobs/view/financial-restructuring-summer-internship-%E2%80%93-july-2027-intake-at-ey-4479835551) | London, England, United Kingdom |
+| 2026-10-22 10:21 | 2027 | Scotiabank | [2027 UK Corporate Banking Summer Internship](https://jobs.scotiabank.com/job/London-%28UK%29-2027-UK-Corporate-Banking-Summer-Internship-ENG/607258917/) |  |
 | 2026-10-22 00:39 | 2027 | Castleton Commodities International | [Principal Investments Intern (Summer 2027)](https://uk.linkedin.com/jobs/view/principal-investments-intern-summer-2027-at-castleton-commodities-international-4479432780) | London, England, United Kingdom |
 | 2026-10-22 00:39 | 2027 | Keppel (Fund Management & Investment) | [[Keppel Internship Programme 2027] Intern, RE Investment (June - Dec 2027)](https://sg.linkedin.com/jobs/view/keppel-internship-programme-2027-intern-re-investment-june-dec-2027-at-keppel-fund-management-investment-4442846073) | Singapore, Singapore |
 | 2026-10-21 22:06 | 2027 | Bank of America | [Global Research 2027 Summer Analyst - London](https://uk.linkedin.com/jobs/view/global-research-2027-summer-analyst-london-at-bank-of-america-4460276776) | London, England, United Kingdom |
