@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 20:58 | 2027 | Citi | [Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-investment-banking-real-estate-summer-analyst-london-united-kingdom-2027-at-citi-4480477952) | London, England, United Kingdom |
 | 2026-10-23 20:48 | 2027 | Standard Chartered | [Wealth & Retail Banking Intern Hong kong 2027](https://hk.linkedin.com/jobs/view/wealth-retail-banking-intern-hong-kong-2027-at-standard-chartered-4482852983) | Hong Kong SAR |
 | 2026-10-23 20:43 | 2027 | AltaGas Ltd. | [AltaGas - 2027 Finance Intern](https://ca.linkedin.com/jobs/view/altagas-2027-finance-intern-at-altagas-ltd-4464592793) | Calgary, Alberta, Canada |
 | 2026-10-23 20:38 | 2027 | OCBC | [Internship: Global Markets, Market Connectivity/Global Markets Equities [Jan 2027 to Jun 2027]](https://sg.linkedin.com/jobs/view/internship-global-markets-market-connectivity-global-markets-equities-jan-2027-to-jun-2027-at-ocbc-4471595624) | Singapore, Singapore |
