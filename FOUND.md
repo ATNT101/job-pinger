@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 19:36 | ? | BNP Paribas | [Global Banking Americas – Corporate Banking Summer Analyst](https://ca.linkedin.com/jobs/view/global-banking-americas-%E2%80%93-corporate-banking-summer-analyst-at-bnp-paribas-4472967357) | Montreal, Quebec, Canada |
 | 2026-10-23 19:20 | 2027 | Brevan Howard | [2027 Summer Internship Program – Trading, Singapore](https://sg.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-trading-singapore-at-brevan-howard-4465641253) | Singapore, Singapore |
 | 2026-10-23 19:20 | 2027 | Procter & Gamble | [(Hongkong SAR) Campus Recruiting -2027 P&G Internship Program -Finance Intern](https://hk.linkedin.com/jobs/view/hongkong-sar-campus-recruiting-2027-p-g-internship-program-finance-intern-at-procter-gamble-4459972185) | Hong Kong, Hong Kong SAR |
 | 2026-10-23 19:20 | 2027 | University Pension Plan Ontario | [Intern Analyst, Private Markets (May 2027 - August 2027)](https://ca.linkedin.com/jobs/view/intern-analyst-private-markets-may-2027-august-2027-at-university-pension-plan-ontario-4475100498) | Toronto, Ontario, Canada |
