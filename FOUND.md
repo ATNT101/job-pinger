@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 20:43 | 2027 | AltaGas Ltd. | [AltaGas - 2027 Finance Intern](https://ca.linkedin.com/jobs/view/altagas-2027-finance-intern-at-altagas-ltd-4464592793) | Calgary, Alberta, Canada |
 | 2026-10-23 20:38 | 2027 | OCBC | [Internship: Global Markets, Market Connectivity/Global Markets Equities [Jan 2027 to Jun 2027]](https://sg.linkedin.com/jobs/view/internship-global-markets-market-connectivity-global-markets-equities-jan-2027-to-jun-2027-at-ocbc-4471595624) | Singapore, Singapore |
 | 2026-10-23 20:17 | 2027 | FTI Consulting | [2027 Industry Placement, Economic & Financial Consulting](https://uk.linkedin.com/jobs/view/2027-industry-placement-economic-financial-consulting-at-fti-consulting-4473995509) | London, England, United Kingdom |
 | 2026-10-23 20:17 | 2027 | FTI Consulting | [2027 Industry Placement, Forensic Accounting](https://uk.linkedin.com/jobs/view/2027-industry-placement-forensic-accounting-at-fti-consulting-4473997429) | London, England, United Kingdom |
