@@ -2,6 +2,9 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 05:30 | 2027 | Citi | [Banking - Corporate Banking, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-corporate-banking-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4480484565) | Hong Kong, Hong Kong SAR |
+| 2026-10-23 05:30 | 2027 | Investment Management Corporation of Ontario (IMCO) | [Intern, Total Portfolio & Strategic Initiatives (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-total-portfolio-strategic-initiatives-summer-2027-at-investment-management-corporation-of-ontario-imco-4480258157) | Toronto, Ontario, Canada |
+| 2026-10-23 05:30 | 2027 | Hilti Canada | [Finance & Reporting Intern - Summer 2027](https://ca.linkedin.com/jobs/view/finance-reporting-intern-summer-2027-at-hilti-canada-4477739713) | Oakville, Ontario, Canada |
 | 2026-10-23 00:52 | 2027 | Citi | [Wealth - Private Bank, Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/wealth-private-bank-summer-analyst-singapore-2027-at-citi-4480480631) | Singapore, Singapore |
 | 2026-10-23 00:52 | 2027 | Citi | [Wealth - Citigold, Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/wealth-citigold-summer-analyst-singapore-2027-at-citi-4480480669) | Singapore, Singapore |
 | 2026-10-23 00:52 | 2027 | Citi | [Banking, Financing, Summer Analyst, London - United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-financing-summer-analyst-london-united-kingdom-2027-at-citi-4480477924) | London, England, United Kingdom |
