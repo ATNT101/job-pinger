@@ -2,6 +2,9 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 19:20 | 2027 | Brevan Howard | [2027 Summer Internship Program – Trading, Singapore](https://sg.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-trading-singapore-at-brevan-howard-4465641253) | Singapore, Singapore |
+| 2026-10-23 19:20 | 2027 | Procter & Gamble | [(Hongkong SAR) Campus Recruiting -2027 P&G Internship Program -Finance Intern](https://hk.linkedin.com/jobs/view/hongkong-sar-campus-recruiting-2027-p-g-internship-program-finance-intern-at-procter-gamble-4459972185) | Hong Kong, Hong Kong SAR |
+| 2026-10-23 19:20 | 2027 | University Pension Plan Ontario | [Intern Analyst, Private Markets (May 2027 - August 2027)](https://ca.linkedin.com/jobs/view/intern-analyst-private-markets-may-2027-august-2027-at-university-pension-plan-ontario-4475100498) | Toronto, Ontario, Canada |
 | 2026-10-23 10:26 | 2027 | targetjobs UK | [Financial Restructuring Summer Internship - July 2027](https://uk.linkedin.com/jobs/view/financial-restructuring%E2%80%AFsummer-internship-july-2027-at-targetjobs-uk-4480212940) | London, England, United Kingdom |
 | 2026-10-23 05:30 | 2027 | Citi | [Banking - Corporate Banking, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-corporate-banking-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4480484565) | Hong Kong, Hong Kong SAR |
 | 2026-10-23 05:30 | 2027 | Investment Management Corporation of Ontario (IMCO) | [Intern, Total Portfolio & Strategic Initiatives (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-total-portfolio-strategic-initiatives-summer-2027-at-investment-management-corporation-of-ontario-imco-4480258157) | Toronto, Ontario, Canada |
