@@ -15,12 +15,15 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write   # lets each run queue the next one (GitHub's own cron is unreliable)
 
 jobs:
   ping:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
+      - run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
@@ -72,6 +75,19 @@ jobs:
             git pull --rebase --autostash || true
             git push
           fi
+
+      # Self-scheduling: queue the next check ~5 min after this one started.
+      # GitHub's cron often runs late or not at all, so this keeps it going.
+      # Only one run can wait in the queue (concurrency group), so chains never pile up.
+      # To stop the bot: Actions > job-pinger > "..." > Disable workflow.
+      - name: Queue next check
+        if: always() && (github.event_name == 'schedule' || github.event.inputs.mode == 'normal' || github.event.inputs.mode == '')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          left=$(( 300 - ($(date +%s) - START) ))
+          if [ "$left" -gt 0 ]; then sleep "$left"; fi
+          gh workflow run pinger.yml --repo "${{ github.repository }}" --ref main -f mode=normal
 
   # GitHub pauses scheduled workflows after 60 days with no commits.
   # This makes a tiny commit on the 1st of each month so that never happens.
