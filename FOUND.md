@@ -2,6 +2,15 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 00:52 | 2027 | Citi | [Wealth - Private Bank, Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/wealth-private-bank-summer-analyst-singapore-2027-at-citi-4480480631) | Singapore, Singapore |
+| 2026-10-23 00:52 | 2027 | Citi | [Wealth - Citigold, Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/wealth-citigold-summer-analyst-singapore-2027-at-citi-4480480669) | Singapore, Singapore |
+| 2026-10-23 00:52 | 2027 | Citi | [Banking, Financing, Summer Analyst, London - United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-financing-summer-analyst-london-united-kingdom-2027-at-citi-4480477924) | London, England, United Kingdom |
+| 2026-10-23 00:52 | 2027 | Citi | [Markets – Sales and Trading, Summer Analyst, London – United Kingdom, 2027](https://uk.linkedin.com/jobs/view/markets-%E2%80%93-sales-and-trading-summer-analyst-london-%E2%80%93-united-kingdom-2027-at-citi-4480495210) | London, England, United Kingdom |
+| 2026-10-23 00:52 | 2027 | BlackRock | [2027 Summer Internship Programme - Financial Markets Advisory - London](https://uk.linkedin.com/jobs/view/2027-summer-internship-programme-financial-markets-advisory-london-at-blackrock-4466262472) | London Area, United Kingdom |
+| 2026-10-23 00:52 | 2027 | Crédit Agricole CIB | [2027 Summer Internship - Corporate and Leveraged Finance - London](https://uk.linkedin.com/jobs/view/2027-summer-internship-corporate-and-leveraged-finance-london-at-cr%C3%A9dit-agricole-cib-4480043233) | London Area, United Kingdom |
+| 2026-10-23 00:52 | 2027 | Brevan Howard | [2027 Summer Internship Program – Trading, London](https://uk.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-trading-london-at-brevan-howard-4465633350) | London, England, United Kingdom |
+| 2026-10-23 00:52 | 2027 | Optiver | [Market Risk Internship 2027 - Singapore](https://sg.linkedin.com/jobs/view/market-risk-internship-2027-singapore-at-optiver-4473098521) | Singapore |
+| 2026-10-23 00:52 | 2027 | Susquehanna International Group | [Quantitative Systematic Trading Internship - Master's: Summer 2027](https://hk.linkedin.com/jobs/view/quantitative-systematic-trading-internship-master-s-summer-2027-at-susquehanna-international-group-4434978754) | Hong Kong, Hong Kong SAR |
 | 2026-10-22 22:30 | 2027 | EY | [Financial Restructuring Industrial Placement - Northern Ireland - July 2027 intake](https://uk.linkedin.com/jobs/view/financial-restructuring-industrial-placement-northern-ireland-july-2027-intake-at-ey-4474305507) | Belfast, Northern Ireland, United Kingdom |
 | 2026-10-22 22:30 | 2027 | Investment Management Corporation of Ontario (IMCO) | [Intern, Cash and Treasury (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-cash-and-treasury-summer-2027-at-investment-management-corporation-of-ontario-imco-4479962397) | Toronto, Ontario, Canada |
 | 2026-10-22 22:30 | 2027 | UBS | [2027 Summer Internship - Global Banking GLU - London](https://uk.linkedin.com/jobs/view/2027-summer-internship-global-banking-glu-london-at-ubs-4482497823) | London, England, United Kingdom |
