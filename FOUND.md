@@ -2,6 +2,10 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-23 20:17 | 2027 | FTI Consulting | [2027 Industry Placement, Economic & Financial Consulting](https://uk.linkedin.com/jobs/view/2027-industry-placement-economic-financial-consulting-at-fti-consulting-4473995509) | London, England, United Kingdom |
+| 2026-10-23 20:17 | 2027 | FTI Consulting | [2027 Industry Placement, Forensic Accounting](https://uk.linkedin.com/jobs/view/2027-industry-placement-forensic-accounting-at-fti-consulting-4473997429) | London, England, United Kingdom |
+| 2026-10-23 20:17 | 2027 | Grant Thornton UK | [Public Sector Audit 12 Month Placement Programme (Summer 2027) - London](https://uk.linkedin.com/jobs/view/public-sector-audit-12-month-placement-programme-summer-2027-london-at-grant-thornton-uk-4471387995) | London, England, United Kingdom |
+| 2026-10-23 20:17 | 2027 | Johnson & Johnson | [2027 Finance Student Placement Programme](https://uk.linkedin.com/jobs/view/2027-finance-student-placement-programme-at-johnson-johnson-4482713312) | Wokingham, England, United Kingdom |
 | 2026-10-23 19:36 | ? | BNP Paribas | [Global Banking Americas – Corporate Banking Summer Analyst](https://ca.linkedin.com/jobs/view/global-banking-americas-%E2%80%93-corporate-banking-summer-analyst-at-bnp-paribas-4472967357) | Montreal, Quebec, Canada |
 | 2026-10-23 19:20 | 2027 | Brevan Howard | [2027 Summer Internship Program – Trading, Singapore](https://sg.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-trading-singapore-at-brevan-howard-4465641253) | Singapore, Singapore |
 | 2026-10-23 19:20 | 2027 | Procter & Gamble | [(Hongkong SAR) Campus Recruiting -2027 P&G Internship Program -Finance Intern](https://hk.linkedin.com/jobs/view/hongkong-sar-campus-recruiting-2027-p-g-internship-program-finance-intern-at-procter-gamble-4459972185) | Hong Kong, Hong Kong SAR |
