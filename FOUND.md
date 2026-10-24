@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-24 16:58 | 2027 | Procter & Gamble | [Finance & Accounting Summer Internship 2027](https://uk.linkedin.com/jobs/view/finance-accounting-summer-internship-2027-at-procter-gamble-4472977044) | London, England, United Kingdom |
 | 2026-10-24 02:07 | 2027 | Citi | [Client - Citi Research, Summer Analyst, London - United Kingdom, 2027](https://uk.linkedin.com/jobs/view/client-citi-research-summer-analyst-london-united-kingdom-2027-at-citi-4480479816) | London, England, United Kingdom |
 | 2026-10-24 02:07 | 2027 | Macquarie Group | [2027 Macquarie Asset Management Summer Internship Programme - Client Solutions Group](https://uk.linkedin.com/jobs/view/2027-macquarie-asset-management-summer-internship-programme-client-solutions-group-at-macquarie-group-4462255648) | London, England, United Kingdom |
 | 2026-10-23 21:55 | 2027 | BMO | [BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto](https://ca.linkedin.com/jobs/view/bmo-capital-markets-summer-2027-internship-risk-and-capital-solutions-analyst-toronto-at-bmo-4483167034) | Toronto, Ontario, Canada |
