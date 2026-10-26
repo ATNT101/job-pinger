@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-26 04:21 | 2027 | FTI Consulting | [2027 Summer Internship, Economic & Financial Consulting](https://uk.linkedin.com/jobs/view/2027-summer-internship-economic-financial-consulting-at-fti-consulting-4483529224) | London, England, United Kingdom |
 | 2026-10-25 18:35 | 2027 | Nordex UK & Ireland | [Finance Internship - Starting Summer 2027](https://uk.linkedin.com/jobs/view/finance-internship-starting-summer-2027-at-nordex-uk-ireland-4481567335) | Manchester, England, United Kingdom |
 | 2026-10-25 04:27 | 2027 | BDO UK | [2027 Advisory Industrial Placement Programme](https://uk.linkedin.com/jobs/view/2027-advisory-industrial-placement-programme-at-bdo-uk-4469725107) | London, England, United Kingdom |
 | 2026-10-24 16:58 | 2027 | Procter & Gamble | [Finance & Accounting Summer Internship 2027](https://uk.linkedin.com/jobs/view/finance-accounting-summer-internship-2027-at-procter-gamble-4472977044) | London, England, United Kingdom |
