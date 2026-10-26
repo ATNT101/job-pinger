@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-26 23:51 | 2027 | Citi | [Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-financing-equity-capital-markets-placement-analyst-london-united-kingdom-2027-at-citi-4480485715) | London, England, United Kingdom |
 | 2026-10-26 20:31 | 2027 | OCBC | [Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Services [Jan to May 2027]](https://sg.linkedin.com/jobs/view/internship-global-corporate-banking-regional-conglomerates-diversified-industries-services-jan-to-may-2027-at-ocbc-4467060097) | Singapore, Singapore |
 | 2026-10-26 18:48 | 2027 | OCBC | [Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Global Transportation [Jan to May 2027]](https://sg.linkedin.com/jobs/view/internship-global-corporate-banking-regional-conglomerates-diversified-industries-global-transportation-jan-to-may-2027-at-ocbc-4467068086) | Singapore, Singapore |
 | 2026-10-26 15:48 | 2027 | Capstone Investment Advisors | [Summer 2027 - Risk Tech Internship](https://uk.linkedin.com/jobs/view/summer-2027-risk-tech-internship-at-capstone-investment-advisors-4474249849) | London, England, United Kingdom |
