@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-27 15:45 | 2027 | Citi | [Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027](https://jobs.citi.com/job/london/banking-investment-banking-healthcare-placement-analyst-london-united-kingdom-2027/287/102509266800) |  |
 | 2026-10-27 14:06 | 2027 | Barclays | [International Corporate Banking Summer Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/International-Corporate-Banking-Summer-Internship-Programme-2027-London_JR-0000123989) | Canary Wharf, 1 Churchill Place |
 | 2026-10-27 13:20 | 2027 | Citi | [Services - Summer Analyst, Hong Kong, 2027](https://hk.linkedin.com/jobs/view/services-summer-analyst-hong-kong-2027-at-citi-4480483678) | Hong Kong, Hong Kong SAR |
 | 2026-10-27 13:09 | 2027 | Charles River Associates | [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://uk.linkedin.com/jobs/view/2028-graduates-intern-antitrust-competition-economics-practice-summer-2027-at-charles-river-associates-4474286743) | London, England, United Kingdom |
