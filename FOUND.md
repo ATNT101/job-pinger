@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-27 03:22 | 2027 | targetjobs UK | [2027 Summer Internship, TMT Business Transformation, Corporate Finance](https://uk.linkedin.com/jobs/view/2027-summer-internship-tmt-business-transformation-corporate-finance-at-targetjobs-uk-4483274850) | London, England, United Kingdom |
 | 2026-10-27 02:25 | 2027 | targetjobs UK | [2027 Summer Internship, Economic & Financial Consulting](https://uk.linkedin.com/jobs/view/2027-summer-internship-economic-financial-consulting-at-targetjobs-uk-4483275699) | London, England, United Kingdom |
 | 2026-10-26 23:51 | 2027 | Citi | [Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-financing-equity-capital-markets-placement-analyst-london-united-kingdom-2027-at-citi-4480485715) | London, England, United Kingdom |
 | 2026-10-26 20:31 | 2027 | OCBC | [Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Services [Jan to May 2027]](https://sg.linkedin.com/jobs/view/internship-global-corporate-banking-regional-conglomerates-diversified-industries-services-jan-to-may-2027-at-ocbc-4467060097) | Singapore, Singapore |
