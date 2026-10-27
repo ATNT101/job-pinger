@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-27 13:09 | 2027 | Charles River Associates | [[2028 graduates] Intern (Antitrust & Competition Economics Practice) - Summer 2027](https://uk.linkedin.com/jobs/view/2028-graduates-intern-antitrust-competition-economics-practice-summer-2027-at-charles-river-associates-4474286743) | London, England, United Kingdom |
 | 2026-10-27 10:50 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Leicester](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-leicester-at-grant-thornton-uk-4471505090) | Leicester, England, United Kingdom |
 | 2026-10-27 10:24 | 2027 | Societe Generale | [Equity Research Intern (Bernstein - Hong Kong Summer 2027)](https://hk.linkedin.com/jobs/view/equity-research-intern-bernstein-hong-kong-summer-2027-at-societe-generale-4475562127) | Hong Kong, Hong Kong SAR |
 | 2026-10-27 03:22 | 2027 | targetjobs UK | [2027 Summer Internship, TMT Business Transformation, Corporate Finance](https://uk.linkedin.com/jobs/view/2027-summer-internship-tmt-business-transformation-corporate-finance-at-targetjobs-uk-4483274850) | London, England, United Kingdom |
