@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-28 14:42 | 2027 | Cenovus Energy | [Student, Business/ Commerce, Accounting, Finance, Calgary (May 2027)](https://ca.linkedin.com/jobs/view/student-business-commerce-accounting-finance-calgary-may-2027-at-cenovus-energy-4483560134) | Calgary, Alberta, Canada |
 | 2026-10-27 21:21 | 2027 | TD Securities | [2027 Summer Internship Program - Finance](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Finance_R_1508101) | Mount Laurel, New Jersey |
 | 2026-10-27 18:10 | 2027 | PA Consulting | [2027 Industrial Placement - Consulting (Strategy & Economics) - London](https://uk.linkedin.com/jobs/view/2027-industrial-placement-consulting-strategy-economics-london-at-pa-consulting-4481667762) | London, England, United Kingdom |
 | 2026-10-27 15:45 | 2027 | Citi | [Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027](https://jobs.citi.com/job/london/banking-investment-banking-healthcare-placement-analyst-london-united-kingdom-2027/287/102509266800) |  |
