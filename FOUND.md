@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-29 18:32 | 2027 | BNY | [2027 BNY Analyst Program – Investments (London)](https://uk.linkedin.com/jobs/view/2027-bny-analyst-program-%E2%80%93-investments-london-at-bny-4468267588) | London, England, United Kingdom |
 | 2026-10-29 15:00 | 2027 | Bank of Montreal | [Quantitative Trading Analyst Co-op (Summer 2027)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Toronto, ON, Canada |
 | 2026-10-29 09:40 | 2027 | Manulife | [Summer Intern 2027 - Private Wealth](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/Summer-Intern-2027---Private-Wealth_JR26080650) | Montreal, Quebec |
 | 2026-10-29 03:35 | 2027 | Menzies LLP | [Deal Advisory - Placement Student 2027](https://uk.linkedin.com/jobs/view/deal-advisory-placement-student-2027-at-menzies-llp-4465622991) | London, England, United Kingdom |
