@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-29 23:40 | 2027 | EQT Group | [Summer Analyst Programme 2027 – EQT Real Estate](https://uk.linkedin.com/jobs/view/summer-analyst-programme-2027-%E2%80%93-eqt-real-estate-at-eqt-group-4484139947) | London, England, United Kingdom |
 | 2026-10-29 18:48 | 2027 | L'Oréal | [Finance Industrial Placement 2027](https://uk.linkedin.com/jobs/view/finance-industrial-placement-2027-at-l-or%C3%A9al-4479311624) | London, England, United Kingdom |
 | 2026-10-29 18:32 | 2027 | BNY | [2027 BNY Analyst Program – Investments (London)](https://uk.linkedin.com/jobs/view/2027-bny-analyst-program-%E2%80%93-investments-london-at-bny-4468267588) | London, England, United Kingdom |
 | 2026-10-29 15:00 | 2027 | Bank of Montreal | [Quantitative Trading Analyst Co-op (Summer 2027)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | Toronto, ON, Canada |
