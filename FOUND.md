@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-29 09:40 | 2027 | Manulife | [Summer Intern 2027 - Private Wealth](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Montreal-Quebec/Summer-Intern-2027---Private-Wealth_JR26080650) | Montreal, Quebec |
 | 2026-10-29 03:35 | 2027 | Menzies LLP | [Deal Advisory - Placement Student 2027](https://uk.linkedin.com/jobs/view/deal-advisory-placement-student-2027-at-menzies-llp-4465622991) | London, England, United Kingdom |
 | 2026-10-28 23:33 | 2027 | Cenovus Energy | [Student Risk Analytics Intern (Summer 2027)](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) | Calgary, AB, Canada |
 | 2026-10-28 19:20 | 2027 | PA Consulting | [2027 Industrial Placement - Consulting (Strategy & Economics) - Bristol](https://uk.linkedin.com/jobs/view/2027-industrial-placement-consulting-strategy-economics-bristol-at-pa-consulting-4481322375) | Bristol, England, United Kingdom |
