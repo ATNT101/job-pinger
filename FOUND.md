@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 12:32 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Japanese Corporate Banking](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-japanese-corporate-banking-at-mufg-4464316897) | London, England, United Kingdom |
 | 2026-10-30 12:22 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Global Corporate Investment Banking](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-global-corporate-investment-banking-at-mufg-4464324825) | London, England, United Kingdom |
 | 2026-10-30 11:30 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Capital Markets](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-capital-markets-at-mufg-4464323845) | London, England, United Kingdom |
 | 2026-10-30 03:37 | ? | Arup | [Summer Internship - Business and Investor Advisory (Economics - London)](https://uk.linkedin.com/jobs/view/summer-internship-business-and-investor-advisory-economics-london-at-arup-4484217002) | London, England, United Kingdom |
