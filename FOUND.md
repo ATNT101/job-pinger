@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 19:10 | 2027 | Liquidnet | [Liquidnet Equities, Sales and Trading Summer Internship Programme 2027, London](https://uk.linkedin.com/jobs/view/liquidnet-equities-sales-and-trading-summer-internship-programme-2027-london-at-liquidnet-4483478313) | London, England, United Kingdom |
 | 2026-10-30 18:28 | 2027 | Barclays | [Research Analyst Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610) | Singapore, Marina Bay Financial Tower 2 |
 | 2026-10-30 18:28 | 2027 | Citi (intern) | [Banking, Corporate Banking, Summer Analyst, London – United Kingdom, 2027](https://jobs.citi.com/job/london/banking-corporate-banking-summer-analyst-london-united-kingdom-2027/287/100164759232) |  |
 | 2026-10-30 18:28 | 2027 | Edelweiss Software Group | [M&A Intern / Stagiaire en fusions et acquisitions (Winter & Summer 2027)](https://ca.linkedin.com/jobs/view/m-a-intern-stagiaire-en-fusions-et-acquisitions-winter-summer-2027-at-edelweiss-software-group-4477498326) | Montreal, Quebec, Canada |
