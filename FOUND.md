@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 13:54 | 2027 | Schroders | [2027 Finance Internship Programme (SG)](https://sg.linkedin.com/jobs/view/2027-finance-internship-programme-sg-at-schroders-4475367590) | Singapore |
 | 2026-10-30 13:34 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Structured Trading Group](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-structured-trading-group-at-mufg-4465311064) | London, England, United Kingdom |
 | 2026-10-30 13:34 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Credit Sales and Trading](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-credit-sales-and-trading-at-mufg-4465318012) | London, England, United Kingdom |
 | 2026-10-30 12:32 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Japanese Corporate Banking](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-japanese-corporate-banking-at-mufg-4464316897) | London, England, United Kingdom |
