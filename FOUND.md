@@ -2,6 +2,9 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 18:28 | 2027 | Barclays | [Research Analyst Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610) | Singapore, Marina Bay Financial Tower 2 |
+| 2026-10-30 18:28 | 2027 | Citi (intern) | [Banking, Corporate Banking, Summer Analyst, London – United Kingdom, 2027](https://jobs.citi.com/job/london/banking-corporate-banking-summer-analyst-london-united-kingdom-2027/287/100164759232) |  |
+| 2026-10-30 18:28 | 2027 | Edelweiss Software Group | [M&A Intern / Stagiaire en fusions et acquisitions (Winter & Summer 2027)](https://ca.linkedin.com/jobs/view/m-a-intern-stagiaire-en-fusions-et-acquisitions-winter-summer-2027-at-edelweiss-software-group-4477498326) | Montreal, Quebec, Canada |
 | 2026-10-30 13:54 | 2027 | Schroders | [2027 Finance Internship Programme (SG)](https://sg.linkedin.com/jobs/view/2027-finance-internship-programme-sg-at-schroders-4475367590) | Singapore |
 | 2026-10-30 13:34 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Structured Trading Group](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-structured-trading-group-at-mufg-4465311064) | London, England, United Kingdom |
 | 2026-10-30 13:34 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Credit Sales and Trading](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-credit-sales-and-trading-at-mufg-4465318012) | London, England, United Kingdom |
