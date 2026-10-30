@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 13:34 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Structured Trading Group](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-structured-trading-group-at-mufg-4465311064) | London, England, United Kingdom |
+| 2026-10-30 13:34 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Credit Sales and Trading](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-credit-sales-and-trading-at-mufg-4465318012) | London, England, United Kingdom |
 | 2026-10-30 12:32 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Japanese Corporate Banking](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-japanese-corporate-banking-at-mufg-4464316897) | London, England, United Kingdom |
 | 2026-10-30 12:22 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Global Corporate Investment Banking](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-global-corporate-investment-banking-at-mufg-4464324825) | London, England, United Kingdom |
 | 2026-10-30 11:30 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Capital Markets](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-capital-markets-at-mufg-4464323845) | London, England, United Kingdom |
