@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 19:46 | 2027 | OCBC | [Internship: Global Transaction Banking, Global Financial Institutions, Credit Analyst [Jan to May 2027]](https://sg.linkedin.com/jobs/view/internship-global-transaction-banking-global-financial-institutions-credit-analyst-jan-to-may-2027-at-ocbc-4468653193) | Singapore, Singapore |
+| 2026-10-30 19:46 | 2027 | WTW | [Early Careers: Corporate Risk and Broking, Broking Placement internship - Canada - 2027](https://ca.linkedin.com/jobs/view/early-careers-corporate-risk-and-broking-broking-placement-internship-canada-2027-at-wtw-4476951658) | Toronto, Ontario, Canada |
 | 2026-10-30 19:35 | 2027 | RBC (early talent) | [2027 Capital Markets, Quantitative Technology Services Summer, Raleigh](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) | 8081 ARCO CORPORATE DRIVE:RALEIGH |
 | 2026-10-30 19:10 | 2027 | Liquidnet | [Liquidnet Equities, Sales and Trading Summer Internship Programme 2027, London](https://uk.linkedin.com/jobs/view/liquidnet-equities-sales-and-trading-summer-internship-programme-2027-london-at-liquidnet-4483478313) | London, England, United Kingdom |
 | 2026-10-30 18:28 | 2027 | Barclays | [Research Analyst Summer Internship Programme 2027 Singapore](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/Research-Analyst-Summer-Internship-Programme-2027-Singapore_JR-0000119610) | Singapore, Marina Bay Financial Tower 2 |
