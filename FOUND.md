@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-30 11:30 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Capital Markets](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-capital-markets-at-mufg-4464323845) | London, England, United Kingdom |
 | 2026-10-30 03:37 | ? | Arup | [Summer Internship - Business and Investor Advisory (Economics - London)](https://uk.linkedin.com/jobs/view/summer-internship-business-and-investor-advisory-economics-london-at-arup-4484217002) | London, England, United Kingdom |
 | 2026-10-30 00:11 | 2027 | Intact | [Financial Analyst– 4-month Internship/Coop (Summer 2027)](https://ca.linkedin.com/jobs/view/financial-analyst%E2%80%93-4-month-internship-coop-summer-2027-at-intact-4484119344) | Montreal, Quebec, Canada |
 | 2026-10-29 23:40 | 2027 | EQT Group | [Summer Analyst Programme 2027 – EQT Real Estate](https://uk.linkedin.com/jobs/view/summer-analyst-programme-2027-%E2%80%93-eqt-real-estate-at-eqt-group-4484139947) | London, England, United Kingdom |
