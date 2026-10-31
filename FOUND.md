@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-31 10:16 | 2027 | Susquehanna International Group | [Quantitative Systematic Trading Internship: Summer 2027](https://uk.linkedin.com/jobs/view/quantitative-systematic-trading-internship-summer-2027-at-susquehanna-international-group-4438419109) | London, England, United Kingdom |
 | 2026-10-31 04:10 | 2027 | targetjobs UK | [2027 Finance Summer Analyst Programme](https://uk.linkedin.com/jobs/view/2027-finance-summer-analyst-programme-at-targetjobs-uk-4485133199) | Glasgow, Scotland, United Kingdom |
 | 2026-10-31 03:55 | 2027 | targetjobs UK | [2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-global-investment-research-equity-research-summer-analyst-at-targetjobs-uk-4485149005) | London, England, United Kingdom |
 | 2026-10-31 00:49 | 2027 | targetjobs UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027)](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-at-targetjobs-uk-4485115958) | Milton Keynes, England, United Kingdom |
