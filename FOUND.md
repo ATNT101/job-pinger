@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-31 00:49 | 2027 | targetjobs UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027)](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-at-targetjobs-uk-4485115958) | Milton Keynes, England, United Kingdom |
 | 2026-10-30 23:27 | 2027 | Citi | [Banking, Corporate Banking, Summer Analyst, London – United Kingdom, 2027](https://uk.linkedin.com/jobs/view/banking-corporate-banking-summer-analyst-london-%E2%80%93-united-kingdom-2027-at-citi-4485114535) | London, England, United Kingdom |
 | 2026-10-30 19:46 | 2027 | OCBC | [Internship: Global Transaction Banking, Global Financial Institutions, Credit Analyst [Jan to May 2027]](https://sg.linkedin.com/jobs/view/internship-global-transaction-banking-global-financial-institutions-credit-analyst-jan-to-may-2027-at-ocbc-4468653193) | Singapore, Singapore |
 | 2026-10-30 19:46 | 2027 | WTW | [Early Careers: Corporate Risk and Broking, Broking Placement internship - Canada - 2027](https://ca.linkedin.com/jobs/view/early-careers-corporate-risk-and-broking-broking-placement-internship-canada-2027-at-wtw-4476951658) | Toronto, Ontario, Canada |
