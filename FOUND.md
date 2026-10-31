@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-10-31 17:07 | 2027 | MNP | [Analyste, Financement d’entreprises, Vérification diligente (Stages Hiver & Automne 2027)](https://ca.linkedin.com/jobs/view/analyste-financement-d%E2%80%99entreprises-v%C3%A9rification-diligente-stages-hiver-automne-2027-at-mnp-4458032441) | Montreal, Quebec, Canada |
 | 2026-10-31 15:14 | 2027 | targetjobs UK | [2027 UK Arrowpoint Advisory Summer Analyst Programme - London](https://uk.linkedin.com/jobs/view/2027-uk-arrowpoint-advisory-summer-analyst-programme-london-at-targetjobs-uk-4485157519) | London, England, United Kingdom |
 | 2026-10-31 10:16 | 2027 | Susquehanna International Group | [Quantitative Systematic Trading Internship: Summer 2027](https://uk.linkedin.com/jobs/view/quantitative-systematic-trading-internship-summer-2027-at-susquehanna-international-group-4438419109) | London, England, United Kingdom |
 | 2026-10-31 04:10 | 2027 | targetjobs UK | [2027 Finance Summer Analyst Programme](https://uk.linkedin.com/jobs/view/2027-finance-summer-analyst-programme-at-targetjobs-uk-4485133199) | Glasgow, Scotland, United Kingdom |
