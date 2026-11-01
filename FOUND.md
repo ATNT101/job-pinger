@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-01 12:14 | 2027 | Fengate Asset Management | [Intern, Private Equity (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-private-equity-summer-2027-at-fengate-asset-management-4469170939) | Toronto, Ontario, Canada |
 | 2026-11-01 03:34 | 2027 | targetjobs UK | [2027 Fund Services Summer Analyst Programme - Accounting](https://uk.linkedin.com/jobs/view/2027-fund-services-summer-analyst-programme-accounting-at-targetjobs-uk-4485177221) | Glasgow, Scotland, United Kingdom |
 | 2026-11-01 03:29 | 2027 | targetjobs UK | [2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship](https://uk.linkedin.com/jobs/view/2027-commercial-investment-bank-global-payments-analyst-program-summer-internship-at-targetjobs-uk-4485195045) | London, England, United Kingdom |
 | 2026-11-01 03:29 | 2027 | targetjobs UK | [2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship](https://uk.linkedin.com/jobs/view/2027-global-corporate-banking-analyst-program-public-sector-summer-internship-at-targetjobs-uk-4485186129) | London, England, United Kingdom |
