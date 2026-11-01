@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-01 03:34 | 2027 | targetjobs UK | [2027 Fund Services Summer Analyst Programme - Accounting](https://uk.linkedin.com/jobs/view/2027-fund-services-summer-analyst-programme-accounting-at-targetjobs-uk-4485177221) | Glasgow, Scotland, United Kingdom |
 | 2026-11-01 03:29 | 2027 | targetjobs UK | [2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship](https://uk.linkedin.com/jobs/view/2027-commercial-investment-bank-global-payments-analyst-program-summer-internship-at-targetjobs-uk-4485195045) | London, England, United Kingdom |
 | 2026-11-01 03:29 | 2027 | targetjobs UK | [2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship](https://uk.linkedin.com/jobs/view/2027-global-corporate-banking-analyst-program-public-sector-summer-internship-at-targetjobs-uk-4485186129) | London, England, United Kingdom |
 | 2026-10-31 17:07 | 2027 | MNP | [Analyste, Financement d’entreprises, Vérification diligente (Stages Hiver & Automne 2027)](https://ca.linkedin.com/jobs/view/analyste-financement-d%E2%80%99entreprises-v%C3%A9rification-diligente-stages-hiver-automne-2027-at-mnp-4458032441) | Montreal, Quebec, Canada |
