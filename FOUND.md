@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-02 05:59 | 2027 | targetjobs UK | [2027 Investments Summer Internship](https://uk.linkedin.com/jobs/view/2027-investments-summer-internship-at-targetjobs-uk-4485435459) | London, England, United Kingdom |
 | 2026-11-02 05:43 | 2027 | targetjobs UK | [2027 Commercial & Investment Banking - Global Markets - Summer Internship](https://uk.linkedin.com/jobs/view/2027-commercial-investment-banking-global-markets-summer-internship-at-targetjobs-uk-4485426802) | London, England, United Kingdom |
 | 2026-11-02 03:29 | 2027 | targetjobs UK | [2027 - Investment Banking - Client Financing Solutions - Summer Internship](https://uk.linkedin.com/jobs/view/2027-investment-banking-client-financing-solutions-summer-internship-at-targetjobs-uk-4485431501) | London, England, United Kingdom |
 | 2026-11-01 16:37 | 2027 | targetjobs UK | [2027 Asset Management Investments - Summer Internship Program](https://uk.linkedin.com/jobs/view/2027-asset-management-investments-summer-internship-program-at-targetjobs-uk-4485423310) | London, England, United Kingdom |
