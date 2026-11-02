@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-02 15:00 | 2027 | Scotiabank | [ASPIRE Commercial Banking - Agriculture - Summer 2027 Co-op / Internship - Alberta](https://jobs.scotiabank.com/job/Calgary-ASPIRE-Commercial-Banking-Agriculture-Summer-2027-Co-op-Internship-Alberta-AB/607598717/) |  |
 | 2026-11-02 10:29 | 2027 | UOB | [Infrastructure & Project Finance Intern (Dec - June 2027)](https://sg.linkedin.com/jobs/view/infrastructure-project-finance-intern-dec-june-2027-at-uob-4477500271) | Singapore, Singapore |
 | 2026-11-02 09:41 | 2027 | Barclays | [Sustainable Finance Summer Internship Programme 2027 London](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Sustainable-Finance-Summer-Internship-Programme-2027-London_JR-0000124202) | Canary Wharf, 1 Churchill Place |
 | 2026-11-02 05:59 | 2027 | targetjobs UK | [2027 Investments Summer Internship](https://uk.linkedin.com/jobs/view/2027-investments-summer-internship-at-targetjobs-uk-4485435459) | London, England, United Kingdom |
