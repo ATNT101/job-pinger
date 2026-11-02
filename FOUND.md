@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-02 16:51 | ? | BNP Paribas | [Asset Finance and Securitization Summer Analyst](https://ca.linkedin.com/jobs/view/asset-finance-and-securitization-summer-analyst-at-bnp-paribas-4484373541) | Montreal, Quebec, Canada |
 | 2026-11-02 15:58 | 2027 | CIBC (campus) | [2027 Summer Intern - Commercial Real Estate](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Birmingham-MI/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620106) | Birmingham, MI |
 | 2026-11-02 15:27 | 2027 | targetjobs UK | [2027 Summer Internship – Corporate Banking](https://uk.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-corporate-banking-at-targetjobs-uk-4485728318) | London, England, United Kingdom |
 | 2026-11-02 15:00 | 2027 | Scotiabank | [ASPIRE Commercial Banking - Agriculture - Summer 2027 Co-op / Internship - Alberta](https://jobs.scotiabank.com/job/Calgary-ASPIRE-Commercial-Banking-Agriculture-Summer-2027-Co-op-Internship-Alberta-AB/607598717/) |  |
