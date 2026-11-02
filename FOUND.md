@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-02 19:25 | 2027 | Citi (intern) | [Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027](https://jobs.citi.com/job/london/banking-investment-banking-summer-analyst-london-united-kingdom-2027/287/100315643136) |  |
 | 2026-11-02 18:33 | 2027 | BNY | [2027 BNY Summer Internship Program – Credit & Lending (London)](https://uk.linkedin.com/jobs/view/2027-bny-summer-internship-program-%E2%80%93-credit-lending-london-at-bny-4478520692) | London, England, United Kingdom |
 | 2026-11-02 17:46 | IB-2028 | BMO | [UT @ Austin Summer 2028 Internship - Investment Banking](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Chicago-IL-USA/UT---Austin-Summer-2028-Internship---Investment-Banking_R260030620) | 2 Locations |
 | 2026-11-02 17:30 | IB-2028 | BMO | [Wisconsin Summer 2028 Internship - Investment Banking](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Chicago-IL-USA/Wisconsin-Summer-2028-Internship---Investment-Banking_R260030607) | 2 Locations |
