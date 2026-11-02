@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-02 23:16 | 2027 | Scotiabank | [GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027](https://jobs.scotiabank.com/job/Toronto-GBM-Corporate-Banking%2C-Credit-Analytics-Group-%28CAG%29-InternshipCo-op-Summer-2027-ON/607644017/) |  |
 | 2026-11-02 20:39 | IB-2028 | BMO | [Michigan Summer 2028 Internship - Investment Banking](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/New-York-NY-USA/Michigan-Summer-2028-Internship---Investment-Banking_R260030103) | 2 Locations |
 | 2026-11-02 19:25 | 2027 | Citi (intern) | [Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027](https://jobs.citi.com/job/london/banking-investment-banking-summer-analyst-london-united-kingdom-2027/287/100315643136) |  |
 | 2026-11-02 18:33 | 2027 | BNY | [2027 BNY Summer Internship Program – Credit & Lending (London)](https://uk.linkedin.com/jobs/view/2027-bny-summer-internship-program-%E2%80%93-credit-lending-london-at-bny-4478520692) | London, England, United Kingdom |
