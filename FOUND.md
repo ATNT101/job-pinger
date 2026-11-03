@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-03 15:41 | 2027 | S&W | [Internship Programme, Corporate Finance - London (July 2027)](https://uk.linkedin.com/jobs/view/internship-programme-corporate-finance-london-july-2027-at-s-w-4486064270) | London, England, United Kingdom |
+| 2026-11-03 15:41 | 2027 | targetjobs UK | [2027 Summer Internship - Global Banking PFG](https://uk.linkedin.com/jobs/view/2027-summer-internship-global-banking-pfg-at-targetjobs-uk-4486056281) | London, England, United Kingdom |
 | 2026-11-03 13:11 | 2027 | StepStone Group | [2027 Private Equity Infrastructure & Real Assets Intern](https://uk.linkedin.com/jobs/view/2027-private-equity-infrastructure-real-assets-intern-at-stepstone-group-4477593763) | London, England, United Kingdom |
 | 2026-11-03 12:09 | 2027 | Rothschild & Co | [administrative finance intern five arrows luxembourg march 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/administrative-finance-intern-five-arrows-luxembourg-march-2027/) |  |
 | 2026-11-03 12:09 | 2027 | Rothschild & Co | [ga stage global advisory equity capital markets juillet 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/ga-stage-global-advisory-equity-capital-markets-juillet-2027/) |  |
