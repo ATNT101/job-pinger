@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-03 13:11 | 2027 | StepStone Group | [2027 Private Equity Infrastructure & Real Assets Intern](https://uk.linkedin.com/jobs/view/2027-private-equity-infrastructure-real-assets-intern-at-stepstone-group-4477593763) | London, England, United Kingdom |
 | 2026-11-03 12:09 | 2027 | Rothschild & Co | [administrative finance intern five arrows luxembourg march 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/administrative-finance-intern-five-arrows-luxembourg-march-2027/) |  |
 | 2026-11-03 12:09 | 2027 | Rothschild & Co | [ga stage global advisory equity capital markets juillet 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/ga-stage-global-advisory-equity-capital-markets-juillet-2027/) |  |
 | 2026-11-03 11:23 | 2027 | Citi | [Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-investment-banking-summer-analyst-london-%E2%80%93-united-kingdom-2027-at-citi-4486040475) | London, England, United Kingdom |
