@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-03 11:23 | 2027 | Citi | [Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-investment-banking-summer-analyst-london-%E2%80%93-united-kingdom-2027-at-citi-4486040475) | London, England, United Kingdom |
 | 2026-11-03 10:52 | 2027 | Optiver | [Quantitative Trading Internship (Singapore) - 2027](https://sg.linkedin.com/jobs/view/quantitative-trading-internship-singapore-2027-at-optiver-4467383897) | Singapore |
 | 2026-11-03 09:13 | 2027 | Susquehanna International Group | [Equity Research Internship: Summer 2027](https://uk.linkedin.com/jobs/view/equity-research-internship-summer-2027-at-susquehanna-international-group-4439268761) | London, England, United Kingdom |
 | 2026-11-03 03:49 | 2027 | targetjobs UK | [2027 / EMEA / London / Transaction Banking (TxB), Coverage / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-transaction-banking-txb-coverage-summer-analyst-at-targetjobs-uk-4486014358) | London, England, United Kingdom |
