@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-03 12:09 | 2027 | Rothschild & Co | [administrative finance intern five arrows luxembourg march 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/administrative-finance-intern-five-arrows-luxembourg-march-2027/) |  |
+| 2026-11-03 12:09 | 2027 | Rothschild & Co | [ga stage global advisory equity capital markets juillet 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/ga-stage-global-advisory-equity-capital-markets-juillet-2027/) |  |
 | 2026-11-03 11:23 | 2027 | Citi | [Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027](https://uk.linkedin.com/jobs/view/banking-investment-banking-summer-analyst-london-%E2%80%93-united-kingdom-2027-at-citi-4486040475) | London, England, United Kingdom |
 | 2026-11-03 10:52 | 2027 | Optiver | [Quantitative Trading Internship (Singapore) - 2027](https://sg.linkedin.com/jobs/view/quantitative-trading-internship-singapore-2027-at-optiver-4467383897) | Singapore |
 | 2026-11-03 09:13 | 2027 | Susquehanna International Group | [Equity Research Internship: Summer 2027](https://uk.linkedin.com/jobs/view/equity-research-internship-summer-2027-at-susquehanna-international-group-4439268761) | London, England, United Kingdom |
