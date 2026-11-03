@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-03 03:49 | 2027 | targetjobs UK | [2027 / EMEA / London / Transaction Banking (TxB), Coverage / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-transaction-banking-txb-coverage-summer-analyst-at-targetjobs-uk-4486014358) | London, England, United Kingdom |
 | 2026-11-03 02:21 | 2027 | Carousell Group | [Corporate Development Intern_Jan 2027](https://sg.linkedin.com/jobs/view/corporate-development-intern-jan-2027-at-carousell-group-4483429070) | Singapore, Singapore |
 | 2026-11-03 00:23 | 2027 | Phillips 66 | [2027 University New Hire - Commercial Risk](https://ca.linkedin.com/jobs/view/2027-university-new-hire-commercial-risk-at-phillips-66-4485798065) | Calgary, Alberta, Canada |
 | 2026-11-02 23:16 | 2027 | Scotiabank | [GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Summer 2027](https://jobs.scotiabank.com/job/Toronto-GBM-Corporate-Banking%2C-Credit-Analytics-Group-%28CAG%29-InternshipCo-op-Summer-2027-ON/607644017/) |  |
