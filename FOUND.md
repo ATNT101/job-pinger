@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 23:56 | 2027 | Hasbro | [2027 Summer Internships - Finance - [LONDON, UK]](https://uk.linkedin.com/jobs/view/2027-summer-internships-finance-london-uk-at-hasbro-4487570243) | London, England, United Kingdom |
 | 2026-11-04 19:23 | 2027 | BMO | [First Nations / Inuit / Métis – Commercial Banking Intern, Summer 2027 (Co-op/Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Winnipeg-MB-CAN/First-Nations---Inuit---Mtis---Commercial-Banking-Intern--Summer-2027--Co-op-Internship----4-months_R260030526-1) | Winnipeg, MB, CAN |
 | 2026-11-04 19:09 | 2027 | Marsh | [Marsh Global Investments 2027 Summer Internship Programme](https://uk.linkedin.com/jobs/view/marsh-global-investments-2027-summer-internship-programme-at-marsh-4487516351) | London, England, United Kingdom |
 | 2026-11-04 18:48 | 2027 | Capstone Investment Advisors | [Summer 2027 - Investment Internship LDN](https://uk.linkedin.com/jobs/view/summer-2027-investment-internship-ldn-at-capstone-investment-advisors-4469968449) | London, England, United Kingdom |
