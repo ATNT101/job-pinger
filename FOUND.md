@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 17:21 | 2027 | Citi | [Banking - Commercial Banking, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-commercial-banking-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4486502752) | Kowloon City District, Hong Kong SAR |
 | 2026-11-04 16:34 | 2027 | Citi | [Banking, Corporate Banking, Placement Analyst, Milan, Italy 2027 - January/February Start](https://jobs.citi.com/job/milano/banking-corporate-banking-placement-analyst-milan-italy-2027-january-february-start/287/102849942816) |  |
 | 2026-11-04 15:47 | 2027 | targetjobs UK | [2027 Public Markets Equities Internship Programme](https://uk.linkedin.com/jobs/view/2027-public-markets-equities-internship-programme-at-targetjobs-uk-4486379641) | London, England, United Kingdom |
 | 2026-11-04 15:42 | 2027 | Aon | [Aon Summer Internship Programme 2027 - Investment Consulting (London Only)](https://uk.linkedin.com/jobs/view/aon-summer-internship-programme-2027-investment-consulting-london-only-at-aon-4479229308) | London, England, United Kingdom |
