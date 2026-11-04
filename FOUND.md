@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 10:42 | 2027 | Cushman & Wakefield | [EIC Intern - Commercial Real Estate, SGP Summer Program 2027](https://sg.linkedin.com/jobs/view/eic-intern-commercial-real-estate-sgp-summer-program-2027-at-cushman-wakefield-4470487705) | Singapore, Singapore |
 | 2026-11-04 10:06 | 2027 | Standard Chartered Singapore | [Mergers & Acquisitions Corporate & Investment Banking Internship Singapore Programme 2027](https://sg.linkedin.com/jobs/view/mergers-acquisitions-corporate-investment-banking-internship-singapore-programme-2027-at-standard-chartered-singapore-4487231793) | Singapore, Singapore |
 | 2026-11-04 05:12 | 2027 | Scotiabank | [Wealth Management - JFL Research Internship/Co-op (Montreal) - Summer 2027](https://jobs.scotiabank.com/job/Montreal-Wealth-Management-JFL-Research-InternshipCo-op-%28Montreal%29-Summer-2027-QC/607702817/) |  |
 | 2026-11-04 05:12 | 2027 | Scotiabank | [Wealth Management - JFL Research Internship/Co-op (Toronto) - Summer 2027](https://jobs.scotiabank.com/job/Toronto-Wealth-Management-JFL-Research-InternshipCo-op-%28Toronto%29-Summer-2027-ON/607625517/) |  |
