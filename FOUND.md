@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 18:48 | 2027 | Capstone Investment Advisors | [Summer 2027 - Investment Internship LDN](https://uk.linkedin.com/jobs/view/summer-2027-investment-internship-ldn-at-capstone-investment-advisors-4469968449) | London, England, United Kingdom |
 | 2026-11-04 17:37 | 2027 | PIMCO | [2027 Summer Internship – Portfolio Management - Special Situations Team, APAC](https://sg.linkedin.com/jobs/view/2027-summer-internship-%E2%80%93-portfolio-management-special-situations-team-apac-at-pimco-4460983379) | Singapore |
 | 2026-11-04 17:21 | 2027 | Citi | [Banking - Commercial Banking, Summer Analyst, Hong Kong – APAC, 2027](https://hk.linkedin.com/jobs/view/banking-commercial-banking-summer-analyst-hong-kong-%E2%80%93-apac-2027-at-citi-4486502752) | Kowloon City District, Hong Kong SAR |
 | 2026-11-04 16:34 | 2027 | Citi | [Banking, Corporate Banking, Placement Analyst, Milan, Italy 2027 - January/February Start](https://jobs.citi.com/job/milano/banking-corporate-banking-placement-analyst-milan-italy-2027-january-february-start/287/102849942816) |  |
