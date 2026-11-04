@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 05:12 | 2027 | Scotiabank | [Wealth Management - JFL Research Internship/Co-op (Montreal) - Summer 2027](https://jobs.scotiabank.com/job/Montreal-Wealth-Management-JFL-Research-InternshipCo-op-%28Montreal%29-Summer-2027-QC/607702817/) |  |
+| 2026-11-04 05:12 | 2027 | Scotiabank | [Wealth Management - JFL Research Internship/Co-op (Toronto) - Summer 2027](https://jobs.scotiabank.com/job/Toronto-Wealth-Management-JFL-Research-InternshipCo-op-%28Toronto%29-Summer-2027-ON/607625517/) |  |
 | 2026-11-04 04:10 | 2027 | targetjobs UK | [2027 UK Corporate Banking Summer Internship](https://uk.linkedin.com/jobs/view/2027-uk-corporate-banking-summer-internship-at-targetjobs-uk-4486335157) | London, England, United Kingdom |
 | 2026-11-04 01:40 | 2027 | BNP Paribas | [Stagiaire en services bancaires transactionnels – Développement de produits – Mai – Août 2027](https://ca.linkedin.com/jobs/view/stagiaire-en-services-bancaires-transactionnels-%E2%80%93-d%C3%A9veloppement-de-produits-%E2%80%93-mai-%E2%80%93-ao%C3%BBt-2027-at-bnp-paribas-4485037353) | Montreal, Quebec, Canada |
 | 2026-11-03 23:01 | 2027 | Schonfeld | [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://hk.linkedin.com/jobs/view/2027-emerging-markets-and-delta-one-quantitative-researcher-strat-intern-at-schonfeld-4487061618) | Hong Kong, Hong Kong SAR |
