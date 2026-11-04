@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 15:42 | 2027 | Aon | [Aon Summer Internship Programme 2027 - Investment Consulting (London Only)](https://uk.linkedin.com/jobs/view/aon-summer-internship-programme-2027-investment-consulting-london-only-at-aon-4479229308) | London, England, United Kingdom |
+| 2026-11-04 15:42 | 2027 | University Pension Plan Ontario | [Intern Analyst, Portfolio Construction (May 2027 - August 2027)](https://ca.linkedin.com/jobs/view/intern-analyst-portfolio-construction-may-2027-august-2027-at-university-pension-plan-ontario-4478138859) | Toronto, Ontario, Canada |
 | 2026-11-04 14:09 | 2027 | Aon | [Aon Summer Internship Programme 2027 - Investment Consulting (Regional locations)](https://uk.linkedin.com/jobs/view/aon-summer-internship-programme-2027-investment-consulting-regional-locations-at-aon-4479216854) | Bristol, England, United Kingdom |
 | 2026-11-04 10:53 | 2027 | UBS | [2027 Summer Internship - Global Banking - Singapore](https://sg.linkedin.com/jobs/view/2027-summer-internship-global-banking-singapore-at-ubs-4487247529) | Singapore |
 | 2026-11-04 10:42 | 2027 | Cushman & Wakefield | [EIC Intern - Commercial Real Estate, SGP Summer Program 2027](https://sg.linkedin.com/jobs/view/eic-intern-commercial-real-estate-sgp-summer-program-2027-at-cushman-wakefield-4470487705) | Singapore, Singapore |
