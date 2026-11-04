@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 01:40 | 2027 | BNP Paribas | [Stagiaire en services bancaires transactionnels – Développement de produits – Mai – Août 2027](https://ca.linkedin.com/jobs/view/stagiaire-en-services-bancaires-transactionnels-%E2%80%93-d%C3%A9veloppement-de-produits-%E2%80%93-mai-%E2%80%93-ao%C3%BBt-2027-at-bnp-paribas-4485037353) | Montreal, Quebec, Canada |
 | 2026-11-03 23:01 | 2027 | Schonfeld | [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://hk.linkedin.com/jobs/view/2027-emerging-markets-and-delta-one-quantitative-researcher-strat-intern-at-schonfeld-4487061618) | Hong Kong, Hong Kong SAR |
 | 2026-11-03 18:52 | 2027 | Citi | [Banking, Corporate Banking, Placement Analyst, Oslo - Norway, 2027](https://jobs.citi.com/job/oslo/banking-corporate-banking-placement-analyst-oslo-norway-2027/287/102810603488) |  |
 | 2026-11-03 18:06 | 2027 | OCBC | [Internship: Global Investment Banking Division, Loan Capital Markets [Dec 2026 - Jun 2027]](https://sg.linkedin.com/jobs/view/internship-global-investment-banking-division-loan-capital-markets-dec-2026-jun-2027-at-ocbc-4469912338) | Singapore, Singapore |
