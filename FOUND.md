@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-04 14:09 | 2027 | Aon | [Aon Summer Internship Programme 2027 - Investment Consulting (Regional locations)](https://uk.linkedin.com/jobs/view/aon-summer-internship-programme-2027-investment-consulting-regional-locations-at-aon-4479216854) | Bristol, England, United Kingdom |
 | 2026-11-04 10:53 | 2027 | UBS | [2027 Summer Internship - Global Banking - Singapore](https://sg.linkedin.com/jobs/view/2027-summer-internship-global-banking-singapore-at-ubs-4487247529) | Singapore |
 | 2026-11-04 10:42 | 2027 | Cushman & Wakefield | [EIC Intern - Commercial Real Estate, SGP Summer Program 2027](https://sg.linkedin.com/jobs/view/eic-intern-commercial-real-estate-sgp-summer-program-2027-at-cushman-wakefield-4470487705) | Singapore, Singapore |
 | 2026-11-04 10:06 | 2027 | Standard Chartered Singapore | [Mergers & Acquisitions Corporate & Investment Banking Internship Singapore Programme 2027](https://sg.linkedin.com/jobs/view/mergers-acquisitions-corporate-investment-banking-internship-singapore-programme-2027-at-standard-chartered-singapore-4487231793) | Singapore, Singapore |
