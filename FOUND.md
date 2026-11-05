@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-05 10:19 | 2027 | Standard Chartered | [Private Banking Intern Hong Kong 2027](https://hk.linkedin.com/jobs/view/private-banking-intern-hong-kong-2027-at-standard-chartered-4487733405) | Hong Kong SAR |
 | 2026-11-05 01:13 | 2027 | Bank of America | [2027 Global Markets Military and Athlete Programme](https://uk.linkedin.com/jobs/view/2027-global-markets-military-and-athlete-programme-at-bank-of-america-4486550723) | London, England, United Kingdom |
 | 2026-11-04 23:56 | 2027 | Hasbro | [2027 Summer Internships - Finance - [LONDON, UK]](https://uk.linkedin.com/jobs/view/2027-summer-internships-finance-london-uk-at-hasbro-4487570243) | London, England, United Kingdom |
 | 2026-11-04 19:23 | 2027 | BMO | [First Nations / Inuit / Métis – Commercial Banking Intern, Summer 2027 (Co-op/Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Winnipeg-MB-CAN/First-Nations---Inuit---Mtis---Commercial-Banking-Intern--Summer-2027--Co-op-Internship----4-months_R260030526-1) | Winnipeg, MB, CAN |
