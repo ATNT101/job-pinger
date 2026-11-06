@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-06 02:35 | 2027 | Citi | [Wealth - Private Bank, Summer Analyst, Hong Kong, 2027](https://hk.linkedin.com/jobs/view/wealth-private-bank-summer-analyst-hong-kong-2027-at-citi-4486922406) | Hong Kong, Hong Kong SAR |
 | 2026-11-06 02:30 | ? | Bell | [Summer Analyst, Mergers and Acquisitions](https://ca.linkedin.com/jobs/view/summer-analyst-mergers-and-acquisitions-at-bell-4488078662) | Toronto, Ontario, Canada |
 | 2026-11-05 22:48 | 2027 | BNP Paribas | [Financial Institutions Coverage Intern – Summer 2027](https://ca.linkedin.com/jobs/view/financial-institutions-coverage-intern-%E2%80%93-summer-2027-at-bnp-paribas-4485873474) | Toronto, Ontario, Canada |
 | 2026-11-05 19:06 | 2027 | PIMCO | [2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://uk.linkedin.com/jobs/view/2027-summer-intern-client-solutions-analytics-quantitative-research-analyst-mfe-london-at-pimco-4460617909) | London, England, United Kingdom |
