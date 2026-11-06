@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-06 16:35 | 2027 | Scotiabank 2027 | [GBM - Equity Research - New Grad Rotational Program 2027](https://jobs.scotiabank.com/job/Toronto-GBM-Equity-Research-New-Grad-Rotational-Program-2027-ON/607819317/) |  |
+| 2026-11-06 16:35 | 2027 | Mackenzie Investments | [Summer Intern 2027 - Investment Management, Resources](https://ca.linkedin.com/jobs/view/summer-intern-2027-investment-management-resources-at-mackenzie-investments-4488188190) | Greater Toronto Area, Canada |
 | 2026-11-06 15:23 | 2027 | BMO | [BMO Capital Markets Summer 2027 Corporate Banking Analyst, Toronto](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Corporate-Banking-Analyst--Toronto_R260001648-1) | Toronto, ON, CAN |
 | 2026-11-06 13:45 | 2027 | Bank of England | [2027 Industrial Placement Programme - Risk (London)](https://uk.linkedin.com/jobs/view/2027-industrial-placement-programme-risk-london-at-bank-of-england-4484366819) | London, England, United Kingdom |
 | 2026-11-06 03:21 | 2027 | targetjobs UK | [2027 Commercial & Investment Banking - Sales - Summer Internship](https://uk.linkedin.com/jobs/view/2027-commercial-investment-banking-sales-summer-internship-at-targetjobs-uk-4486941440) | London, England, United Kingdom |
