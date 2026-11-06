@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-06 13:45 | 2027 | Bank of England | [2027 Industrial Placement Programme - Risk (London)](https://uk.linkedin.com/jobs/view/2027-industrial-placement-programme-risk-london-at-bank-of-england-4484366819) | London, England, United Kingdom |
 | 2026-11-06 03:21 | 2027 | targetjobs UK | [2027 Commercial & Investment Banking - Sales - Summer Internship](https://uk.linkedin.com/jobs/view/2027-commercial-investment-banking-sales-summer-internship-at-targetjobs-uk-4486941440) | London, England, United Kingdom |
 | 2026-11-06 03:05 | 2027 | targetjobs UK | [2027 UK Global Advisory Summer Analyst programme - Manchester](https://uk.linkedin.com/jobs/view/2027-uk-global-advisory-summer-analyst-programme-manchester-at-targetjobs-uk-4486941443) | Manchester, England, United Kingdom |
 | 2026-11-06 02:40 | 2027 | Citi | [Wealth - Citigold, Summer Analyst, Hong Kong, 2027](https://hk.linkedin.com/jobs/view/wealth-citigold-summer-analyst-hong-kong-2027-at-citi-4486915651) | Hong Kong, Hong Kong SAR |
