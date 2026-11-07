@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-07 04:29 | 2027 | targetjobs UK | [2027 Quantitative Research – Asset Management - Summer Analyst Internship](https://uk.linkedin.com/jobs/view/2027-quantitative-research-%E2%80%93-asset-management-summer-analyst-internship-at-targetjobs-uk-4487379326) | London, England, United Kingdom |
 | 2026-11-06 22:40 | 2027 | Scotiabank | [GBM - Equity Research - New Grad Rotational Program 2027](https://ca.linkedin.com/jobs/view/gbm-equity-research-new-grad-rotational-program-2027-at-scotiabank-4487347979) | Toronto, Ontario, Canada |
 | 2026-11-06 18:53 | 2027 | Fluent Software | [M&A Intern - 12 Month Placement - Summer 2027 Start](https://uk.linkedin.com/jobs/view/m-a-intern-12-month-placement-summer-2027-start-at-fluent-software-4488412495) | Woking, England, United Kingdom |
 | 2026-11-06 16:50 | 2027 | Capstone | [2027 Summer Policy & Investment Internship - PATHWAY London](https://uk.linkedin.com/jobs/view/2027-summer-policy-investment-internship-pathway-london-at-capstone-4486246887) | London Area, United Kingdom |
