@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-07 19:08 | 2027 | Brevan Howard | [2027 Summer Internship Program – Systematic Trading, London](https://uk.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-systematic-trading-london-at-brevan-howard-4471610723) | London, England, United Kingdom |
 | 2026-11-07 04:55 | 2027 | UBS | [2027 Summer Internship - Global Banking - Toronto](https://ca.linkedin.com/jobs/view/2027-summer-internship-global-banking-toronto-at-ubs-4488479852) | Toronto, Ontario, Canada |
 | 2026-11-07 04:29 | 2027 | targetjobs UK | [2027 Quantitative Research – Asset Management - Summer Analyst Internship](https://uk.linkedin.com/jobs/view/2027-quantitative-research-%E2%80%93-asset-management-summer-analyst-internship-at-targetjobs-uk-4487379326) | London, England, United Kingdom |
 | 2026-11-06 22:40 | 2027 | Scotiabank | [GBM - Equity Research - New Grad Rotational Program 2027](https://ca.linkedin.com/jobs/view/gbm-equity-research-new-grad-rotational-program-2027-at-scotiabank-4487347979) | Toronto, Ontario, Canada |
