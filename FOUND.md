@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-09 16:23 | 2027 | Citi | [Summer Analyst Intern - Application Development (Summer 2027)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037) | London, UK |
 | 2026-11-09 14:08 | 2027 | Scotiabank | [2027 Ireland Audit Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Audit-Summer-Internship-D/607849017/) |  |
 | 2026-11-09 13:47 | 2027 | Scotiabank | [2027 Ireland Treasury Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Treasury-Summer-Internship-D/607848117/) |  |
 | 2026-11-09 11:13 | 2027 | Scotiabank | [2027 Ireland Global Risk Management Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Global-Risk-Management-Summer-Internship-D/607846417/) |  |
