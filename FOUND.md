@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-09 20:29 | 2027 | American Express | [Campus Undergraduate Summer Internship Program - 2027 Finance, Finance - Toronto, Ontario, CN](https://ca.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-finance-finance-toronto-ontario-cn-at-american-express-4487946484) | Toronto, Ontario, Canada |
 | 2026-11-09 20:08 | 2027 | RBC (global) | [RBC Open House Financial Planning / Wednesday January 13th, 2027](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/1-PLACE-VILLE-MARIEMONTRAL/RBC-Open-House-Financial-Planning---Wednesday-January-13th--2027_R-0000192346-3) | 1 PLACE VILLE MARIE:MONTRÉAL |
 | 2026-11-09 16:23 | 2027 | Citi | [Summer Analyst Intern - Application Development (Summer 2027)](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037) | London, UK |
 | 2026-11-09 14:08 | 2027 | Scotiabank | [2027 Ireland Audit Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Audit-Summer-Internship-D/607849017/) |  |
