@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-09 13:47 | 2027 | Scotiabank | [2027 Ireland Treasury Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Treasury-Summer-Internship-D/607848117/) |  |
 | 2026-11-09 11:13 | 2027 | Scotiabank | [2027 Ireland Global Risk Management Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Global-Risk-Management-Summer-Internship-D/607846417/) |  |
 | 2026-11-09 11:13 | 2027 | Scotiabank | [2027 Ireland Business Risk Management Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Business-Risk-Management-Summer-Internship-D/607846517/) |  |
 | 2026-11-09 10:42 | 2027 | Scotiabank | [2027 Ireland Finance Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Finance-Summer-Internship-D/607846317/) |  |
