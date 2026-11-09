@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-09 11:13 | 2027 | Scotiabank | [2027 Ireland Global Risk Management Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Global-Risk-Management-Summer-Internship-D/607846417/) |  |
+| 2026-11-09 11:13 | 2027 | Scotiabank | [2027 Ireland Business Risk Management Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Business-Risk-Management-Summer-Internship-D/607846517/) |  |
 | 2026-11-09 10:42 | 2027 | Scotiabank | [2027 Ireland Finance Summer Internship](https://jobs.scotiabank.com/job/Dublin-2027-Ireland-Finance-Summer-Internship-D/607846317/) |  |
 | 2026-11-09 04:57 | 2027 | targetjobs UK | [2027 Public Markets Multi-Asset Internship Programme](https://uk.linkedin.com/jobs/view/2027-public-markets-multi-asset-internship-programme-at-targetjobs-uk-4487659799) | London, England, United Kingdom |
 | 2026-11-09 04:11 | 2027 | targetjobs UK | [2027 - Investment Banking - Coverage & Advisory - Summer Internship](https://uk.linkedin.com/jobs/view/2027-investment-banking-coverage-advisory-summer-internship-at-targetjobs-uk-4487674518) | London, England, United Kingdom |
