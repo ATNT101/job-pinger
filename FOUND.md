@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-09 04:11 | 2027 | targetjobs UK | [2027 - Investment Banking - Coverage & Advisory - Summer Internship](https://uk.linkedin.com/jobs/view/2027-investment-banking-coverage-advisory-summer-internship-at-targetjobs-uk-4487674518) | London, England, United Kingdom |
 | 2026-11-08 19:58 | 2027 | Scotiabank | [2027 UK Audit Summer Internship](https://jobs.scotiabank.com/job/London-%28UK%29-2027-UK-Audit-Summer-Internship-ENG/607844617/) |  |
 | 2026-11-08 19:17 | 2027 | Scotiabank | [2027 UK Global Transaction Banking Summer Internship](https://jobs.scotiabank.com/job/London-%28UK%29-2027-UK-Global-Transaction-Banking-Summer-Internship-ENG/607844517/) |  |
 | 2026-11-08 18:25 | 2027 | Scotiabank | [2027 UK Business Risk Management Summer Internship](https://jobs.scotiabank.com/job/London-%28UK%29-2027-UK-Business-Risk-Management-Summer-Internship-ENG/607844117/) |  |
