@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-10 03:16 | 2027 | targetjobs UK | [2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-investment-banking-quantitative-strats-summer-analyst-at-targetjobs-uk-4487993339) | London, England, United Kingdom |
 | 2026-11-09 23:55 | 2027 | Pernod Ricard | [Finance Placement - June 2027](https://uk.linkedin.com/jobs/view/finance-placement-june-2027-at-pernod-ricard-4489112622) | Greater London, England, United Kingdom |
 | 2026-11-09 20:29 | 2027 | American Express | [Campus Undergraduate Summer Internship Program - 2027 Finance, Finance - Toronto, Ontario, CN](https://ca.linkedin.com/jobs/view/campus-undergraduate-summer-internship-program-2027-finance-finance-toronto-ontario-cn-at-american-express-4487946484) | Toronto, Ontario, Canada |
 | 2026-11-09 20:08 | 2027 | RBC (global) | [RBC Open House Financial Planning / Wednesday January 13th, 2027](https://rbc.wd3.myworkdayjobs.com/en-US/RBCGLOBAL1/job/1-PLACE-VILLE-MARIEMONTRAL/RBC-Open-House-Financial-Planning---Wednesday-January-13th--2027_R-0000192346-3) | 1 PLACE VILLE MARIE:MONTRÉAL |
