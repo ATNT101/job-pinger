@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-10 19:37 | 2027 | Manulife | [Summer Intern 2027 – General Account Investments Business Architecture](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---General-Account-Investments-Business-Architecture_JR26110296) | Toronto, Ontario |
 | 2026-11-10 19:22 | 2027 | BMO | [Treasury & Payment Solutions Strategy Internship, Summer 2027 (4 months)](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) | Toronto, ON, CAN |
 | 2026-11-10 15:04 | 2027 | BMO | [BMO Capital Markets New Grad 2027 Investment Banking Analyst, Montreal](https://bmo.wd3.myworkdayjobs.com/en-US/Campus/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Investment-Banking-Analyst--Montreal_R260021146-2) | MONTREAL, QC, CAN |
 | 2026-11-10 11:37 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Gatwick](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-gatwick-at-grant-thornton-uk-4471384963) | Gatwick, England, United Kingdom |
