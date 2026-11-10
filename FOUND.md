@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-10 11:37 | 2027 | Grant Thornton UK | [Private Capital Audit 12 Month Placement Programme (Summer 2027) - Gatwick](https://uk.linkedin.com/jobs/view/private-capital-audit-12-month-placement-programme-summer-2027-gatwick-at-grant-thornton-uk-4471384963) | Gatwick, England, United Kingdom |
 | 2026-11-10 11:16 | 2027 | targetjobs UK | [2027 / EMEA / London / Asset Management, Public Investing / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-asset-management-public-investing-summer-analyst-at-targetjobs-uk-4487989396) | London, England, United Kingdom |
 | 2026-11-10 03:16 | 2027 | targetjobs UK | [2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-investment-banking-quantitative-strats-summer-analyst-at-targetjobs-uk-4487993339) | London, England, United Kingdom |
 | 2026-11-09 23:55 | 2027 | Pernod Ricard | [Finance Placement - June 2027](https://uk.linkedin.com/jobs/view/finance-placement-june-2027-at-pernod-ricard-4489112622) | Greater London, England, United Kingdom |
