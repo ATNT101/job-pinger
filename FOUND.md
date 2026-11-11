@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-11 15:12 | 2027 | targetjobs UK | [2027 / EMEA / London / Investment Banking, Capital Solutions Group / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-investment-banking-capital-solutions-group-summer-analyst-at-targetjobs-uk-4489007184) | London, England, United Kingdom |
 | 2026-11-11 14:56 | 2027 | targetjobs UK | [European Public & Private Equity Capital Markets (ECM) & GP Solutions 2027 Summer Analyst Programme](https://uk.linkedin.com/jobs/view/european-public-private-equity-capital-markets-ecm-gp-solutions-2027-summer-analyst-programme-at-targetjobs-uk-4489008145) | London, England, United Kingdom |
 | 2026-11-11 13:44 | 2027 | Jobs via eFinancialCareers | [Wealth - Citigold, Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/wealth-citigold-summer-analyst-singapore-2027-at-jobs-via-efinancialcareers-4488691645) | Singapore, Singapore |
 | 2026-11-11 13:44 | 2027 | Jobs via eFinancialCareers | [Wealth - Private Bank, Summer Analyst, Singapore, 2027](https://sg.linkedin.com/jobs/view/wealth-private-bank-summer-analyst-singapore-2027-at-jobs-via-efinancialcareers-4489000430) | Singapore, Singapore |
