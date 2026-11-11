@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-11 12:52 | 2027 | Jobs via eFinancialCareers | [Infrastructure & Project Finance Intern (Dec - June 2027)](https://sg.linkedin.com/jobs/view/infrastructure-project-finance-intern-dec-june-2027-at-jobs-via-efinancialcareers-4488682868) | Singapore, Singapore |
 | 2026-11-11 12:42 | 2027 | Jobs via eFinancialCareers | [Banking - Commercial Banking, Summer Analyst, Singapore - APAC, 2027](https://sg.linkedin.com/jobs/view/banking-commercial-banking-summer-analyst-singapore-apac-2027-at-jobs-via-efinancialcareers-4488689716) | Singapore, Singapore |
 | 2026-11-11 11:50 | 2027 | targetjobs UK | [2027 Industrial Placement Global Transaction Banking - Corporate Sales](https://uk.linkedin.com/jobs/view/2027-industrial-placement-global-transaction-banking-corporate-sales-at-targetjobs-uk-4487886242) | London, England, United Kingdom |
 | 2026-11-11 11:30 | 2027 | Grant Thornton UK | [Public Sector Audit 12 Month Placement Programme (Summer 2027) - Bristol](https://uk.linkedin.com/jobs/view/public-sector-audit-12-month-placement-programme-summer-2027-bristol-at-grant-thornton-uk-4471393659) | Bristol, England, United Kingdom |
