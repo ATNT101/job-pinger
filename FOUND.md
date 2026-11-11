@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-11 11:50 | 2027 | targetjobs UK | [2027 Industrial Placement Global Transaction Banking - Corporate Sales](https://uk.linkedin.com/jobs/view/2027-industrial-placement-global-transaction-banking-corporate-sales-at-targetjobs-uk-4487886242) | London, England, United Kingdom |
 | 2026-11-11 11:30 | 2027 | Grant Thornton UK | [Public Sector Audit 12 Month Placement Programme (Summer 2027) - Bristol](https://uk.linkedin.com/jobs/view/public-sector-audit-12-month-placement-programme-summer-2027-bristol-at-grant-thornton-uk-4471393659) | Bristol, England, United Kingdom |
 | 2026-11-11 04:07 | 2027 | targetjobs UK | [Internship 2027 - Investment Research](https://uk.linkedin.com/jobs/view/internship-2027-investment-research-at-targetjobs-uk-4487637936) | London, England, United Kingdom |
 | 2026-11-10 23:24 | 2027 | EY | [Audit Industrial Placement - Northern Ireland - July 2027 intake](https://uk.linkedin.com/jobs/view/audit-industrial-placement-northern-ireland-july-2027-intake-at-ey-4471486252) | Belfast, Northern Ireland, United Kingdom |
