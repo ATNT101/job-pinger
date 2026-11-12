@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-12 19:06 | 2027 | Lendable | [Credit Analyst Intern (June 2027)](https://uk.linkedin.com/jobs/view/credit-analyst-intern-june-2027-at-lendable-4458976843) | London, England, United Kingdom |
 | 2026-11-12 17:22 | 2027 | Grant Thornton UK | [Public Sector Audit 12 Month Placement Programme (Summer 2027) - Glasgow](https://uk.linkedin.com/jobs/view/public-sector-audit-12-month-placement-programme-summer-2027-glasgow-at-grant-thornton-uk-4471392756) | Glasgow, Scotland, United Kingdom |
 | 2026-11-12 15:34 | 2027 | targetjobs UK | [2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship](https://uk.linkedin.com/jobs/view/2027-global-markets-sales-trading-structuring-research-summer-internship-at-targetjobs-uk-4489255419) | London, England, United Kingdom |
 | 2026-11-12 15:03 | 2027 | targetjobs UK | [2027 / EMEA / London / Wealth Management, Capital Markets / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-wealth-management-capital-markets-summer-analyst-at-targetjobs-uk-4489255375) | London, England, United Kingdom |
