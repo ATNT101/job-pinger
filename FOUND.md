@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-12 15:34 | 2027 | targetjobs UK | [2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship](https://uk.linkedin.com/jobs/view/2027-global-markets-sales-trading-structuring-research-summer-internship-at-targetjobs-uk-4489255419) | London, England, United Kingdom |
 | 2026-11-12 15:03 | 2027 | targetjobs UK | [2027 / EMEA / London / Wealth Management, Capital Markets / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-wealth-management-capital-markets-summer-analyst-at-targetjobs-uk-4489255375) | London, England, United Kingdom |
 | 2026-11-12 11:51 | 2027 | Citi | [Banking - Corporate Banking, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/banking-corporate-banking-summer-analyst-india-apac-2027/287/103200933520) |  |
 | 2026-11-12 11:51 | 2027 | Citi | [Banking - Investment Banking, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/banking-investment-banking-summer-analyst-india-apac-2027/287/103200933328) |  |
