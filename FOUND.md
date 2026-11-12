@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-12 08:20 | 2027 | OCBC | [Internship: Global Investment Banking, Debt Capital Markets [Dec 2026 to Jun 2027]](https://sg.linkedin.com/jobs/view/internship-global-investment-banking-debt-capital-markets-dec-2026-to-jun-2027-at-ocbc-4490313239) | Singapore, Singapore |
 | 2026-11-12 04:54 | 2027 | targetjobs UK | [2027 Summer Internship Program – Systematic Trading](https://uk.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-systematic-trading-at-targetjobs-uk-4489071425) | London, England, United Kingdom |
 | 2026-11-12 04:39 | 2027 | BNP Paribas | [2027 APAC Long Internship Programme – Global Markets, Singapore](https://sg.linkedin.com/jobs/view/2027-apac-long-internship-programme-%E2%80%93-global-markets-singapore-at-bnp-paribas-4490088293) | Singapore, Singapore |
 | 2026-11-12 04:13 | 2027 | BNP Paribas | [2027 APAC Long Internship Programme – Global Markets, Hong Kong](https://hk.linkedin.com/jobs/view/2027-apac-long-internship-programme-%E2%80%93-global-markets-hong-kong-at-bnp-paribas-4490072906) | Hong Kong, Hong Kong SAR |
