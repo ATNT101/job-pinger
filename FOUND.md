@@ -2,6 +2,11 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-12 11:51 | 2027 | Citi | [Banking - Corporate Banking, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/banking-corporate-banking-summer-analyst-india-apac-2027/287/103200933520) |  |
+| 2026-11-12 11:51 | 2027 | Citi | [Banking - Investment Banking, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/banking-investment-banking-summer-analyst-india-apac-2027/287/103200933328) |  |
+| 2026-11-12 11:51 | 2027 | Citi | [Banking - Commercial Banking, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/banking-commercial-banking-summer-analyst-india-apac-2027/287/103200931584) |  |
+| 2026-11-12 11:51 | 2027 | Citi | [Citi - Internal Audit, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/citi-internal-audit-summer-analyst-india-apac-2027/287/103200928048) |  |
+| 2026-11-12 11:51 | 2027 | Citi (intern) | [Citi - Markets, Summer Analyst, India – APAC, 2027](https://jobs.citi.com/job/mumbai/citi-markets-summer-analyst-india-apac-2027/287/103200908560) |  |
 | 2026-11-12 08:20 | 2027 | OCBC | [Internship: Global Investment Banking, Debt Capital Markets [Dec 2026 to Jun 2027]](https://sg.linkedin.com/jobs/view/internship-global-investment-banking-debt-capital-markets-dec-2026-to-jun-2027-at-ocbc-4490313239) | Singapore, Singapore |
 | 2026-11-12 04:54 | 2027 | targetjobs UK | [2027 Summer Internship Program – Systematic Trading](https://uk.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-systematic-trading-at-targetjobs-uk-4489071425) | London, England, United Kingdom |
 | 2026-11-12 04:39 | 2027 | BNP Paribas | [2027 APAC Long Internship Programme – Global Markets, Singapore](https://sg.linkedin.com/jobs/view/2027-apac-long-internship-programme-%E2%80%93-global-markets-singapore-at-bnp-paribas-4490088293) | Singapore, Singapore |
