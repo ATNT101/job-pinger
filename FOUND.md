@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-12 04:39 | 2027 | BNP Paribas | [2027 APAC Long Internship Programme – Global Markets, Singapore](https://sg.linkedin.com/jobs/view/2027-apac-long-internship-programme-%E2%80%93-global-markets-singapore-at-bnp-paribas-4490088293) | Singapore, Singapore |
 | 2026-11-12 04:13 | 2027 | BNP Paribas | [2027 APAC Long Internship Programme – Global Markets, Hong Kong](https://hk.linkedin.com/jobs/view/2027-apac-long-internship-programme-%E2%80%93-global-markets-hong-kong-at-bnp-paribas-4490072906) | Hong Kong, Hong Kong SAR |
 | 2026-11-12 01:59 | 2027 | The Global Institute for Health and Human Rights | [Global Banking Intern UAE 2027 (UAE Nationals)](https://ca.linkedin.com/jobs/view/global-banking-intern-uae-2027-uae-nationals-at-the-global-institute-for-health-and-human-rights-4490088020) | Standard, Alberta, Canada |
 | 2026-11-11 15:12 | 2027 | targetjobs UK | [2027 / EMEA / London / Investment Banking, Capital Solutions Group / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-investment-banking-capital-solutions-group-summer-analyst-at-targetjobs-uk-4489007184) | London, England, United Kingdom |
