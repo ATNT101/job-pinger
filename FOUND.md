@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-13 01:28 | 2027 | Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL) | [Stage d'été 2027 - Finance, comptabilité et économie](https://ca.linkedin.com/jobs/view/stage-d-%C3%A9t%C3%A9-2027-finance-comptabilit%C3%A9-et-%C3%A9conomie-at-canada-mortgage-and-housing-corporation-cmhc-soci%C3%A9t%C3%A9-canadienne-d-hypoth%C3%A8ques-et-de-logement-schl-4478928285) | Ottawa, Ontario, Canada |
 | 2026-11-12 19:06 | 2027 | Lendable | [Credit Analyst Intern (June 2027)](https://uk.linkedin.com/jobs/view/credit-analyst-intern-june-2027-at-lendable-4458976843) | London, England, United Kingdom |
 | 2026-11-12 17:22 | 2027 | Grant Thornton UK | [Public Sector Audit 12 Month Placement Programme (Summer 2027) - Glasgow](https://uk.linkedin.com/jobs/view/public-sector-audit-12-month-placement-programme-summer-2027-glasgow-at-grant-thornton-uk-4471392756) | Glasgow, Scotland, United Kingdom |
 | 2026-11-12 15:34 | 2027 | targetjobs UK | [2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship](https://uk.linkedin.com/jobs/view/2027-global-markets-sales-trading-structuring-research-summer-internship-at-targetjobs-uk-4489255419) | London, England, United Kingdom |
