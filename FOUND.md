@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-16 23:34 | 2027 | FTI Consulting | [2027 Summer Internship, Tax Advisory](https://uk.linkedin.com/jobs/view/2027-summer-internship-tax-advisory-at-fti-consulting-4483525357) | London, England, United Kingdom |
 | 2026-11-16 22:22 | IB-2028 | CIBC | [Global Investment Banking, Summer 2028 Analyst (Calgary - Energy & Infrastructure)](https://ca.linkedin.com/jobs/view/global-investment-banking-summer-2028-analyst-calgary-energy-infrastructure-at-cibc-4491510807) | Calgary, Alberta, Canada |
 | 2026-11-16 21:00 | 2027 | Scotiabank 2027 | [Financial Advisor - University District, AB (Contract- November, 2027)](https://jobs.scotiabank.com/job/Calgary-Financial-Advisor-University-District%2C-AB-%28Contract-November%2C-2027%29-AB-T3B6K3/608077917/) |  |
 | 2026-11-16 15:47 | 2027 | Corient | [2027 Corient UK Wealth Management Summer Intern Programme](https://uk.linkedin.com/jobs/view/2027-corient-uk-wealth-management-summer-intern-programme-at-corient-4489766683) | London Area, United Kingdom |
