@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-16 15:47 | 2027 | Corient | [2027 Corient UK Wealth Management Summer Intern Programme](https://uk.linkedin.com/jobs/view/2027-corient-uk-wealth-management-summer-intern-programme-at-corient-4489766683) | London Area, United Kingdom |
 | 2026-11-16 04:31 | 2027 | targetjobs UK | [2027 Summer Internships - Finance](https://uk.linkedin.com/jobs/view/2027-summer-internships-finance-at-targetjobs-uk-4490253555) | London Area, United Kingdom |
 | 2026-11-14 17:01 | 2027 | targetjobs UK | [2027 January Internship - Private Capital Markets & Financial Sponsor Coverage](https://uk.linkedin.com/jobs/view/2027-january-internship-private-capital-markets-financial-sponsor-coverage-at-targetjobs-uk-4489898383) | London Area, United Kingdom |
 | 2026-11-14 03:18 | 2027 | targetjobs UK | [2027 Commercial & Investment Banking - Markets - Research - Summer Internship](https://uk.linkedin.com/jobs/view/2027-commercial-investment-banking-markets-research-summer-internship-at-targetjobs-uk-4489860166) | London Area, United Kingdom |
