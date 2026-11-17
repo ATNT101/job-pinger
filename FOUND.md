@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-17 08:29 | IB-2028 | CIBC (campus) | [Global Investment Banking, Summer 2028 Analyst (Calgary - Energy & Infrastructure)](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Calgary-AB/Global-Investment-Banking--Student-Analyst_2623655) | Calgary, AB |
 | 2026-11-17 06:41 | 2027 | targetjobs UK | [2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-ficc-equities-sales-trading-summer-analyst-at-targetjobs-uk-4490178423) | London Area, United Kingdom |
 | 2026-11-17 03:56 | 2027 | targetjobs UK | [2027 Fund Services Summer Analyst Programme - Analytics](https://uk.linkedin.com/jobs/view/2027-fund-services-summer-analyst-programme-analytics-at-targetjobs-uk-4487886247) | Glasgow, Scotland, United Kingdom |
 | 2026-11-16 23:54 | 2027 | BNP Paribas | [Portfolio Analytics & Modelling Intern – Summer 2027](https://ca.linkedin.com/jobs/view/portfolio-analytics-modelling-intern-%E2%80%93-summer-2027-at-bnp-paribas-4490145590) | Montreal, Quebec, Canada |
