@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-17 18:13 | 2027 | Point72 | [2027 Asia Investment Services Internship](https://hk.linkedin.com/jobs/view/2027-asia-investment-services-internship-at-point72-4491598530) | Hong Kong SAR |
 | 2026-11-17 17:16 | 2027 | Dialectica | [2027 Summer Analyst Program - Client Service Team (Montreal, In-Office)](https://ca.linkedin.com/jobs/view/2027-summer-analyst-program-client-service-team-montreal-in-office-at-dialectica-4491582541) | Montreal, Quebec, Canada |
 | 2026-11-17 14:00 | 2027 | Rothschild & Co | [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/) |  |
 | 2026-11-17 09:36 | 2027 | TD Securities | [TD Internship – Global Markets Credit (January to June 2027)](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Singapore-Singapore/TD-Internship---Global-Markets-Credit--January-to-June-2027-_R_1522644) | Singapore, Singapore |
