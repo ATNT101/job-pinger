@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-17 20:22 | 2027 | Manulife | [Summer Intern 2027 - Wealth Investment Office Intern](https://ca.linkedin.com/jobs/view/summer-intern-2027-wealth-investment-office-intern-at-manulife-4491411016) | Toronto, Ontario, Canada |
 | 2026-11-17 18:34 | 2027 | L'Oréal | [Finance Summer Intern – London 2027](https://uk.linkedin.com/jobs/view/finance-summer-intern-%E2%80%93-london-2027-at-l-or%C3%A9al-4491185967) | London, England, United Kingdom |
 | 2026-11-17 18:13 | 2027 | Point72 | [2027 Asia Investment Services Internship](https://hk.linkedin.com/jobs/view/2027-asia-investment-services-internship-at-point72-4491598530) | Hong Kong SAR |
 | 2026-11-17 17:16 | 2027 | Dialectica | [2027 Summer Analyst Program - Client Service Team (Montreal, In-Office)](https://ca.linkedin.com/jobs/view/2027-summer-analyst-program-client-service-team-montreal-in-office-at-dialectica-4491582541) | Montreal, Quebec, Canada |
