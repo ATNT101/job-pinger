@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-17 18:34 | 2027 | L'Oréal | [Finance Summer Intern – London 2027](https://uk.linkedin.com/jobs/view/finance-summer-intern-%E2%80%93-london-2027-at-l-or%C3%A9al-4491185967) | London, England, United Kingdom |
 | 2026-11-17 18:13 | 2027 | Point72 | [2027 Asia Investment Services Internship](https://hk.linkedin.com/jobs/view/2027-asia-investment-services-internship-at-point72-4491598530) | Hong Kong SAR |
 | 2026-11-17 17:16 | 2027 | Dialectica | [2027 Summer Analyst Program - Client Service Team (Montreal, In-Office)](https://ca.linkedin.com/jobs/view/2027-summer-analyst-program-client-service-team-montreal-in-office-at-dialectica-4491582541) | Montreal, Quebec, Canada |
 | 2026-11-17 14:00 | 2027 | Rothschild & Co | [germany frankfurt global market solutions ecm summer internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-market-solutions-ecm-summer-internship-2027/) |  |
