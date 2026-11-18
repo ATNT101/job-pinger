@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-18 05:38 | 2027 | SAP | [SAP iXp Intern - Value Advisory - SUMMER 2027](https://ca.linkedin.com/jobs/view/sap-ixp-intern-value-advisory-summer-2027-at-sap-4490850376) | Toronto, Ontario, Canada |
 | 2026-11-18 04:47 | 2027 | STTGDC | [Intern, Asset Management & Investment (Southeast Asia) – 1H 2027](https://sg.linkedin.com/jobs/view/intern-asset-management-investment-southeast-asia-%E2%80%93-1h-2027-at-sttgdc-4490842295) | Singapore, Singapore |
 | 2026-11-18 04:26 | 2027 | targetjobs UK | [2027 Summer Internship Program – Trading](https://uk.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-trading-at-targetjobs-uk-4490254333) | London Area, United Kingdom |
 | 2026-11-17 22:26 | 2027 | CAPREIT | [Intern, Investments (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-investments-summer-2027-at-capreit-4491743821) | Toronto, Ontario, Canada |
