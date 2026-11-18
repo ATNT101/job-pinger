@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-18 04:26 | 2027 | targetjobs UK | [2027 Summer Internship Program – Trading](https://uk.linkedin.com/jobs/view/2027-summer-internship-program-%E2%80%93-trading-at-targetjobs-uk-4490254333) | London Area, United Kingdom |
 | 2026-11-17 22:26 | 2027 | CAPREIT | [Intern, Investments (Summer 2027)](https://ca.linkedin.com/jobs/view/intern-investments-summer-2027-at-capreit-4491743821) | Toronto, Ontario, Canada |
 | 2026-11-17 20:22 | 2027 | Manulife | [Summer Intern 2027 - Wealth Investment Office Intern](https://ca.linkedin.com/jobs/view/summer-intern-2027-wealth-investment-office-intern-at-manulife-4491411016) | Toronto, Ontario, Canada |
 | 2026-11-17 18:34 | 2027 | L'Oréal | [Finance Summer Intern – London 2027](https://uk.linkedin.com/jobs/view/finance-summer-intern-%E2%80%93-london-2027-at-l-or%C3%A9al-4491185967) | London, England, United Kingdom |
