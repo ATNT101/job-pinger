@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-19 14:37 | 2027 | Rothschild & Co | [germany frankfurt global financing solutions and restructuring liability management spring internship 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/germany-frankfurt-global-financing-solutions-and-restructuring-liability-management-spring-internship-2027/) |  |
 | 2026-11-19 01:50 | 2027 | targetjobs UK | [2027 MUFG UK Summer Analyst Programme: Japanese Corporate Banking](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-japanese-corporate-banking-at-targetjobs-uk-4491899984) | London Area, United Kingdom |
 | 2026-11-18 11:09 | 2027 | Standard Chartered Singapore | [2027 Treasury Intern Singapore](https://sg.linkedin.com/jobs/view/2027-treasury-intern-singapore-at-standard-chartered-singapore-4491793827) | Singapore, Singapore |
 | 2026-11-18 05:38 | 2027 | SAP | [SAP iXp Intern - Value Advisory - SUMMER 2027](https://ca.linkedin.com/jobs/view/sap-ixp-intern-value-advisory-summer-2027-at-sap-4490850376) | Toronto, Ontario, Canada |
