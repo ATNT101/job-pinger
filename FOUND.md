@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-20 12:38 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Global Client Sales](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-global-client-sales-at-mufg-4473256110) | London Area, United Kingdom |
 | 2026-11-20 12:23 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Internal Audit](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-internal-audit-at-mufg-4464322799) | London Area, United Kingdom |
 | 2026-11-20 05:20 | 2027 | J.P. Morgan | [2027 Commercial & Investment Bank - Global Investment Banking Program - Summer Analyst - Tokyo (BCF Onsite)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766972) | Tokyo-To, Japan |
 | 2026-11-20 05:20 | 2027 | J.P. Morgan | [2027 Commercial & Investment Bank - Global Corporate Banking Program - Summer Analyst - Tokyo (BCF Onsite)](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766930) | Tokyo-To, Japan |
