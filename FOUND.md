@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-20 15:29 | 2027 | targetjobs UK | [2027 Public Markets Quants Internship Programme](https://uk.linkedin.com/jobs/view/2027-public-markets-quants-internship-programme-at-targetjobs-uk-4489879886) | London Area, United Kingdom |
 | 2026-11-20 15:07 | 2027 | Crédit Agricole CIB | [Industrial Placement Programme 2027 - Global Markets Division](https://uk.linkedin.com/jobs/view/industrial-placement-programme-2027-global-markets-division-at-cr%C3%A9dit-agricole-cib-4491919983) | London Area, United Kingdom |
 | 2026-11-20 12:38 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Global Client Sales](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-global-client-sales-at-mufg-4473256110) | London Area, United Kingdom |
 | 2026-11-20 12:23 | 2027 | MUFG | [2027 MUFG UK Summer Analyst Programme: Internal Audit](https://uk.linkedin.com/jobs/view/2027-mufg-uk-summer-analyst-programme-internal-audit-at-mufg-4464322799) | London Area, United Kingdom |
