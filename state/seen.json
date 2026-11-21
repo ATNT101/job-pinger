@@ -1452,6 +1452,10 @@
   "d": "2026-10-20",
   "t": "bpsupplytradingshippinginternsummer2027"
  },
+ "sim:0e3c923c-bece-473a-bc86-752ab836e558": {
+  "d": "2026-11-21",
+  "t": "gustoeconomicsresearchinternsummer2027"
+ },
  "sim:9823b609-27f5-4c61-84a8-4ff83ad1b902": {
   "d": "2026-11-09",
   "t": "citisummeranalystinternapplicationdevelopmentsummer2027"
@@ -1463,6 +1467,10 @@
  "sim:c86d623d-5a05-44f1-9e1c-370aa97e1c28": {
   "d": "2026-10-28",
   "t": "cenovusenergystudentriskanalyticsinternsummer2027"
+ },
+ "sim:e9b6d851-286c-4149-93f0-cd51fb5d9b2f": {
+  "d": "2026-11-21",
+  "t": "losangelesdodgerssummeranalystinternsummer2027"
  },
  "wd:barclays:JR-0000117561": {
   "d": "2026-10-20",
