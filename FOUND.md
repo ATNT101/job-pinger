@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-21 10:30 | 2027 | targetjobs UK | [2027 / EMEA / London / Asset Management, Private Investing / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-asset-management-private-investing-summer-analyst-at-targetjobs-uk-4489782144) | London Area, United Kingdom |
 | 2026-11-21 01:45 | 2027 | Los Angeles Dodgers | [Summer Analyst Intern (Summer 2027)](https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/OpportunityDetail?opportunityId=fb796a9d-16f1-4514-8f6b-e5c5dbbb6019) | LA |
 | 2026-11-21 01:45 | 2027 | Gusto | [Economics Research Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8400148) | SF |
 | 2026-11-20 15:29 | 2027 | targetjobs UK | [2027 Public Markets Quants Internship Programme](https://uk.linkedin.com/jobs/view/2027-public-markets-quants-internship-programme-at-targetjobs-uk-4489879886) | London Area, United Kingdom |
