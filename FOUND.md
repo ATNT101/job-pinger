@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-23 17:44 | 2027 | Citi | [Services - Summer Analyst, Ireland - Dublin, 2027](https://jobs.citi.com/job/dublin/services-summer-analyst-ireland-dublin-2027/287/102161057280) |  |
 | 2026-11-23 14:59 | 2027 | Citi | [Banking, Financing, Debt Capital Markets, Placement Analyst, London - United Kingdom 2027](https://jobs.citi.com/job/london/banking-financing-debt-capital-markets-placement-analyst-london-united-kingdom-2027/287/103687435696) |  |
 | 2026-11-23 10:41 | 2027 | Rothschild & Co | [internship investment analyst five arrows growth partners january march 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/internship---investment-analyst--five-arrows-growth-partners--january--march-2027/) |  |
 | 2026-11-23 09:34 | ? | BMO | [Global Markets Summer Analyst Program](https://uk.linkedin.com/jobs/view/global-markets-summer-analyst-program-at-bmo-4493742314) | London Area, United Kingdom |
