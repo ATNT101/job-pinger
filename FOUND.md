@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-23 18:50 | 2027 | Intact | [Corporate Finance Intern- 4 month Internship/Co-op (Summer 2027)](https://ca.linkedin.com/jobs/view/corporate-finance-intern-4-month-internship-co-op-summer-2027-at-intact-4494049251) | Toronto, Ontario, Canada |
 | 2026-11-23 17:59 | 2028 | Barclays | [Banking Analyst Summer Internship Program 2028 Calgary](https://ca.linkedin.com/jobs/view/banking-analyst-summer-internship-program-2028-calgary-at-barclays-4492638286) | Calgary, Alberta, Canada |
 | 2026-11-23 17:44 | 2027 | Citi | [Services - Summer Analyst, Ireland - Dublin, 2027](https://jobs.citi.com/job/dublin/services-summer-analyst-ireland-dublin-2027/287/102161057280) |  |
 | 2026-11-23 14:59 | 2027 | Citi | [Banking, Financing, Debt Capital Markets, Placement Analyst, London - United Kingdom 2027](https://jobs.citi.com/job/london/banking-financing-debt-capital-markets-placement-analyst-london-united-kingdom-2027/287/103687435696) |  |
