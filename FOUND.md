@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-23 10:41 | 2027 | Rothschild & Co | [internship investment analyst five arrows growth partners january march 2027](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/internship---investment-analyst--five-arrows-growth-partners--january--march-2027/) |  |
 | 2026-11-23 09:34 | ? | BMO | [Global Markets Summer Analyst Program](https://uk.linkedin.com/jobs/view/global-markets-summer-analyst-program-at-bmo-4493742314) | London Area, United Kingdom |
 | 2026-11-23 07:36 | 2028 | Barclays | [Banking Analyst Summer Internship Program 2028 Toronto](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Toronto-Bay-Wellington-Tower-L47/Banking-Analyst-Summer-Internship-Program-2028-Toronto_JR-0000137799) | Toronto, Bay Wellington Tower L47 |
 | 2026-11-23 07:15 | 2027 | Deutsche Bank | [2027 Summer Internship - Client Coverage (Xtrackers + Private Wealth Sales) - Hong Kong SAR](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Hong-Kong-Intl-Commerce-Ctr/XMLNAME-2027-Summer-Internship---Client-Coverage--Xtrackers---Private-Wealth-Sales----Hong-Kong-SAR_R0445556-1) | Hong Kong, Intl Commerce Ctr |
