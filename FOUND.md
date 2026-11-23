@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-23 07:36 | 2028 | Barclays | [Banking Analyst Summer Internship Program 2028 Toronto](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Toronto-Bay-Wellington-Tower-L47/Banking-Analyst-Summer-Internship-Program-2028-Toronto_JR-0000137799) | Toronto, Bay Wellington Tower L47 |
 | 2026-11-23 07:15 | 2027 | Deutsche Bank | [2027 Summer Internship - Client Coverage (Xtrackers + Private Wealth Sales) - Hong Kong SAR](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Hong-Kong-Intl-Commerce-Ctr/XMLNAME-2027-Summer-Internship---Client-Coverage--Xtrackers---Private-Wealth-Sales----Hong-Kong-SAR_R0445556-1) | Hong Kong, Intl Commerce Ctr |
 | 2026-11-22 05:16 | 2027 | targetjobs UK | [Economic Advisory Summer Internship - July 2027](https://uk.linkedin.com/jobs/view/economic-advisory-summer-internship-july-2027-at-targetjobs-uk-4492536511) | London Area, United Kingdom |
 | 2026-11-21 11:52 | 2027 | Susquehanna International Group | [Quantitative Trading Internship: Summer 2027](https://uk.linkedin.com/jobs/view/quantitative-trading-internship-summer-2027-at-susquehanna-international-group-4438424007) | London, England, United Kingdom |
