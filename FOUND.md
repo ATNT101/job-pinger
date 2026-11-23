@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-23 07:15 | 2027 | Deutsche Bank | [2027 Summer Internship - Client Coverage (Xtrackers + Private Wealth Sales) - Hong Kong SAR](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Hong-Kong-Intl-Commerce-Ctr/XMLNAME-2027-Summer-Internship---Client-Coverage--Xtrackers---Private-Wealth-Sales----Hong-Kong-SAR_R0445556-1) | Hong Kong, Intl Commerce Ctr |
 | 2026-11-22 05:16 | 2027 | targetjobs UK | [Economic Advisory Summer Internship - July 2027](https://uk.linkedin.com/jobs/view/economic-advisory-summer-internship-july-2027-at-targetjobs-uk-4492536511) | London Area, United Kingdom |
 | 2026-11-21 11:52 | 2027 | Susquehanna International Group | [Quantitative Trading Internship: Summer 2027](https://uk.linkedin.com/jobs/view/quantitative-trading-internship-summer-2027-at-susquehanna-international-group-4438424007) | London, England, United Kingdom |
 | 2026-11-21 10:30 | 2027 | targetjobs UK | [2027 / EMEA / London / Asset Management, Private Investing / Summer Analyst](https://uk.linkedin.com/jobs/view/2027-emea-london-asset-management-private-investing-summer-analyst-at-targetjobs-uk-4489782144) | London Area, United Kingdom |
