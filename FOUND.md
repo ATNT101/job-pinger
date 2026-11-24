@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-24 08:50 | 2027 | EY | [Intern - Assurance, Financial Accounting Advisory Services - Quantitative Analytics (Summer 2027)](https://sg.linkedin.com/jobs/view/intern-assurance-financial-accounting-advisory-services-quantitative-analytics-summer-2027-at-ey-4494326188) | Singapore, Singapore |
+| 2026-11-24 08:50 | 2027 | Qapita | [Valuations Intern (Jan to Jun 2027)](https://sg.linkedin.com/jobs/view/valuations-intern-jan-to-jun-2027-at-qapita-4494324191) | Singapore |
 | 2026-11-24 06:31 | 2027 | Bank of America | [Global Payments Solutions Summer Analyst - 2027 - Singapore](https://sg.linkedin.com/jobs/view/global-payments-solutions-summer-analyst-2027-singapore-at-bank-of-america-4494302961) | Singapore, Singapore |
 | 2026-11-23 18:50 | 2027 | Intact | [Corporate Finance Intern- 4 month Internship/Co-op (Summer 2027)](https://ca.linkedin.com/jobs/view/corporate-finance-intern-4-month-internship-co-op-summer-2027-at-intact-4494049251) | Toronto, Ontario, Canada |
 | 2026-11-23 17:59 | 2028 | Barclays | [Banking Analyst Summer Internship Program 2028 Calgary](https://ca.linkedin.com/jobs/view/banking-analyst-summer-internship-program-2028-calgary-at-barclays-4492638286) | Calgary, Alberta, Canada |
