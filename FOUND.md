@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-24 06:31 | 2027 | Bank of America | [Global Payments Solutions Summer Analyst - 2027 - Singapore](https://sg.linkedin.com/jobs/view/global-payments-solutions-summer-analyst-2027-singapore-at-bank-of-america-4494302961) | Singapore, Singapore |
 | 2026-11-23 18:50 | 2027 | Intact | [Corporate Finance Intern- 4 month Internship/Co-op (Summer 2027)](https://ca.linkedin.com/jobs/view/corporate-finance-intern-4-month-internship-co-op-summer-2027-at-intact-4494049251) | Toronto, Ontario, Canada |
 | 2026-11-23 17:59 | 2028 | Barclays | [Banking Analyst Summer Internship Program 2028 Calgary](https://ca.linkedin.com/jobs/view/banking-analyst-summer-internship-program-2028-calgary-at-barclays-4492638286) | Calgary, Alberta, Canada |
 | 2026-11-23 17:44 | 2027 | Citi | [Services - Summer Analyst, Ireland - Dublin, 2027](https://jobs.citi.com/job/dublin/services-summer-analyst-ireland-dublin-2027/287/102161057280) |  |
