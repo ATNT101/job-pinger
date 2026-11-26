@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-26 05:17 | 2027 | CBRE | [Investment Accounting, Private Infrastructure Co-Op position (January to August 2027 work term)](https://ca.linkedin.com/jobs/view/investment-accounting-private-infrastructure-co-op-position-january-to-august-2027-work-term-at-cbre-4495262072) | Toronto, Ontario, Canada |
 | 2026-11-25 23:22 | 2027 | TD | [TDS - 2027 Summer Analyst Program](https://ca.linkedin.com/jobs/view/tds-2027-summer-analyst-program-at-td-4495202942) | Toronto, Ontario, Canada |
 | 2026-11-25 20:42 | 2027 | Capstone Investment Advisors | [Summer 2027 - Risk Internship](https://uk.linkedin.com/jobs/view/summer-2027-risk-internship-at-capstone-investment-advisors-4478454663) | London, England, United Kingdom |
 | 2026-11-24 22:01 | 2027 | Houlihan Lokey | [2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/New-York-NY-USA/XMLNAME-2027-Financial-Analyst--Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3792) | 2 Locations |
