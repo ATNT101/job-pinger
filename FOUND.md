@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-27 16:01 | 2027 | Rothschild & Co | [leveraged finance 2027 summer analyst programme london](https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/leveraged-finance-2027-summer-analyst-programme---london/) |  |
 | 2026-11-27 10:20 | 2027 | Citi | [Banking - Commercial Banking, Summer Analyst, Taiwan – APAC, 2027](https://jobs.citi.com/job/taipei/banking-commercial-banking-summer-analyst-taiwan-apac-2027/287/102161045632) |  |
 | 2026-11-27 10:20 | 2027 | Citi | [Banking - Investment Banking, Summer Analyst, Taiwan – APAC, 2027](https://jobs.citi.com/job/taipei/banking-investment-banking-summer-analyst-taiwan-apac-2027/287/102161045616) |  |
 | 2026-11-27 10:20 | 2027 | Citi | [Banking - Corporate Banking, Summer Analyst, Taiwan – APAC, 2027](https://jobs.citi.com/job/taipei/banking-corporate-banking-summer-analyst-taiwan-apac-2027/287/102161045600) |  |
