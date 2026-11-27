@@ -2,6 +2,7 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-27 10:05 | 2027 | Marsh | [Marsh Risk Early Career Internship Program - Strategic Risk Consulting Intern, Summer 2027 – Toronto](https://ca.linkedin.com/jobs/view/marsh-risk-early-career-internship-program-strategic-risk-consulting-intern-summer-2027-%E2%80%93-toronto-at-marsh-4495225358) | Toronto, Ontario, Canada |
 | 2026-11-27 08:43 | 2027 | Manulife | [Summer Intern 2027 - Standards Assurance and Risk Monitoring](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Standards-Assurance-and-Risk-Monitoring_JR26071467) | Toronto, Ontario |
 | 2026-11-27 08:43 | ? | Manulife | [Summer Internship - CPMO Intern (Portfolio Management)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Singapore/Summer-Internship---CPMO-Intern--Portfolio-Management-_JR26111402) | Singapore |
 | 2026-11-26 10:05 | 2027 | Clifford Capital | [Project Intern, Markets & Investor Services (MIS) Group (Jan to May 2027)](https://sg.linkedin.com/jobs/view/project-intern-markets-investor-services-mis-group-jan-to-may-2027-at-clifford-capital-4493496867) | Singapore, Singapore |
