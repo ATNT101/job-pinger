@@ -2,6 +2,8 @@
 
 | When (UTC) | Track | Firm | Role | Location |
 |---|---|---|---|---|
+| 2026-11-27 08:43 | 2027 | Manulife | [Summer Intern 2027 - Standards Assurance and Risk Monitoring](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Standards-Assurance-and-Risk-Monitoring_JR26071467) | Toronto, Ontario |
+| 2026-11-27 08:43 | ? | Manulife | [Summer Internship - CPMO Intern (Portfolio Management)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Singapore/Summer-Internship---CPMO-Intern--Portfolio-Management-_JR26111402) | Singapore |
 | 2026-11-26 10:05 | 2027 | Clifford Capital | [Project Intern, Markets & Investor Services (MIS) Group (Jan to May 2027)](https://sg.linkedin.com/jobs/view/project-intern-markets-investor-services-mis-group-jan-to-may-2027-at-clifford-capital-4493496867) | Singapore, Singapore |
 | 2026-11-26 06:03 | 2027 | Income Insurance Limited | [Summer Internship 2027 - Investment Management](https://sg.linkedin.com/jobs/view/summer-internship-2027-investment-management-at-income-insurance-limited-4495253691) | Singapore, Singapore |
 | 2026-11-26 05:17 | 2027 | CBRE | [Investment Accounting, Private Infrastructure Co-Op position (January to August 2027 work term)](https://ca.linkedin.com/jobs/view/investment-accounting-private-infrastructure-co-op-position-january-to-august-2027-work-term-at-cbre-4495262072) | Toronto, Ontario, Canada |
